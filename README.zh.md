@@ -1496,10 +1496,491 @@
     - 文本与语音相遇的地方。你说话，我们打字
     - **链接**: [https://www.notta.ai](https://www.notta.ai)
 
+### AI代码编程
+#### 代码辅助
 
-### AI代码
-- **GitHub Copilot**: 用于代码补全的AI结对程序员
-- **Replit Ghostwriter**: AI驱动的编码助手
+- **Phind**:
+    - Phind您的人工智能搜索引擎和结对程序员。比 ChatGPT 时效性强的多，打破模型训练时间限制，就算是最新技术也不担心，都可以问出答案
+    - **链接**: [https://www.phind.com](https://www.phind.com)
+
+- **SourceAI**:
+    - SourceAI以任何编程语言生成代码。 向所有人开放（甚至对非开发人员） 简单易用 清晰直观的界面   快速地 节省开发时间  一键生成您的代码 更有效地利用你的时间 人工智能驱动 由 GPT-3 和 Codex 提供支持最先进的AI技术 下一代开发
+    - **链接**: [https://sourceai.dev](https://sourceai.dev)
+
+- **Blaze**:
+    - 不要浪费时间编写 SQL 查询。只需编写您需要的内容，让 Blaze AI 为您编写 SQL。
+    - **链接**: [https://www.blazesql.com](https://www.blazesql.com)
+
+- **HeyCLI**:
+    - 你总是忘记终端命令？ heyCLI 可以帮助您将自然语言翻译成终端命令
+    - **链接**: [https://www.heycli.com](https://www.heycli.com)
+
+- **Warp**:
+    - Warp 是一款速度极快、基于 Rust 的终端，经过彻底重新构想，可以像现代应用程序一样工作
+    - **链接**: [https://www.warp.dev](https://www.warp.dev)
+
+- **HTTPie AI**:
+    - HTTPie AI 是一种与 API 交互的新方式。 它内置于 HTTPie for Web & Desktop 中，并使用最先进的人工智能来提高您在测试和与 API 对话时的工作效率
+    - **链接**: [https://httpie.io/ai](https://httpie.io/ai)
+
+- **AI Code Reviewer**:
+    - AI 审查您的代码。如果您的代码有问题，AI 会通知您。
+    - **链接**: [https://ai-code-reviewer.com](https://ai-code-reviewer.com)
+
+- **Fig**:
+    - 下一代命令行；Fig 使命令行更简单、更具协作性；Fig 集成了最流行的终端、shell 和 IDE
+    - **链接**: [https://fig.io](https://fig.io)
+
+- **SQLkiller**:
+    - 直接描述你的取数需求，一键生成SQL；根据SQL及报错提示，AI快速给到报错原因+修正后SQL
+    - **链接**: [https://www.sqlkiller.com](https://www.sqlkiller.com)
+
+- **Regex.ai**:
+    - 人工智能驱动的正则表达式求解器；插入您的文本并拖动光标以突出显示多个字符串以查找匹配的正则表达式
+    - **链接**: [https://regex.ai](https://regex.ai)
+
+- **CodeSnippets**:
+    - 使用最新的 ChatGPT 模型，通过我们的自定义数据集进行微调，您现在可以比标准模型更快、更准确地生成、重构、调试和创建文档
+    - **链接**: [https://codesnippets.ai](https://codesnippets.ai)
+
+- **CodiumAI**:
+    - 借助 CodiumAI，您可以在 IDE 中获得非常重要的测试（而且也很重要！）建议，因此您可以智能编码，创造更多价值，并在推动时保持自信
+    - **链接**: [https://www.codium.ai](https://www.codium.ai)
+
+- **Codiga**:
+    - 使用来自 Codiga Hub 的规则并在 5 分钟内设计您自己的静态代码分析规则。 Codiga 静态代码分析适用于 VS Code、JetBrains、VisualStudio、GitHub、Gitlab 和 Bitbucket。适用于 IDE、CI/CD 管道等的可自定义静态代码分析
+    - **链接**: [https://www.codiga.io](https://www.codiga.io)
+
+- **Tabnine**:
+    - 软件开发人员的人工智能助手；通过整行和全功能代码完成更快地编写代码
+    - **链接**: [https://www.tabnine.com](https://www.tabnine.com)
+
+- **GitFluence**:
+    - AI 驱动的解决方案可帮助您快速找到正确的命令。立即开始使用 Git 命令生成器并节省时间
+    - **链接**: [https://www.gitfluence.com](https://www.gitfluence.com)
+
+- **Ghostwriter**:
+    - 利用 Replit 人工智能的力量来提高您的生产力和创造力。内置于世界上最流行的在线 IDE 中
+    - **链接**: [https://replit.com/site/ghostwriter](https://replit.com/site/ghostwriter)
+
+- **AskCodi**:
+    - AskCodi 牢记开发人员的需求以避免冗余任务，因此减少了开发时间，增加了执行时间。
+    - **链接**: [https://www.askcodi.com](https://www.askcodi.com)
+
+- **CodeGeeX**:
+    - 免费的AI编程助手 ,代码自动生成,代码智能补全,代码翻译,支持多种语言,适配主流IDE
+    - **链接**: [https://codegeex.cn](https://codegeex.cn)
+
+- **Amazon CodeWhisperer**:
+    - 亚马逊 CodeWhisperer, 使用 AI 编码伴侣更快、更安全地构建应用程序
+    - **链接**: [https://aws.amazon.com/codewhisperer](https://aws.amazon.com/codewhisperer)
+
+- **GitHub Copilot**:
+    - 您的 AI 结对程序员 GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器实时建议代码和整个函数。
+    - **链接**: [https://github.com/features/copilot](https://github.com/features/copilot)
+
+- **Visual Studio IntelliCode**:
+    - Visual Studio IntelliCode 将 AI 帮助直接引入 你的个人开发流。 可通过代码补全来帮助你提高准确性和一致性，它可用一次性填写整行代码。 AI 会检测代码上下文，包括变量名称、函数和正在编写的代码类型，以提供最佳建议。
+    - **链接**: [https://visualstudio.microsoft.com/zh-hans/services/intellicode](https://visualstudio.microsoft.com/zh-hans/services/intellicode)
+
+- **ConversAI**:
+    - 在 AI 的帮助下更快地编写代码;只需键入文本描述即可生成代码。 AI 将为您创建代码。
+    - **链接**: [https://conversai.co](https://conversai.co)
+
+- **Cursor**:
+    - 在专为与 AI 结对编程而构建的编辑器中聊天和编辑
+    - **链接**: [https://www.cursor.so](https://www.cursor.so)
+
+- **Bloop**:
+    - 使用 GPT-4 了解代码库和语义代码搜索
+    - **链接**: [https://bloop.ai](https://bloop.ai)
+
+### 开发构建
+
+- **Brancher**:
+    - 连接 AI 模型来构建 几分钟内即可应用，无需代码 下一代人工智能驱动的应用程序将由您构建。
+    - **链接**: [https://www.brancher.ai](https://www.brancher.ai)
+
+- **Steamship**:
+    - Ship AI faster. 更快地交付人工智能。 构建、扩展和监控 AI 代理；具有无服务器云托管、矢量搜索、网络钩子、回调等。
+    - **链接**: [https://www.steamship.com](https://www.steamship.com)
+
+- **Zapier**:
+    - 将 AI 的魔力与 Zapier 的强大功能相结合，加速最重要的工作。将AI引入您日常使用的应用程序 - 如Slack，Notion，HubSpot和Webflow - 所有这些都通过Zapier进行。探索 Zapier 的 30+ 个 AI 应用程序合作伙伴，并将他们与我们超过 5，000+ 个应用程序的生态系统联系起来，为您的业务关键型流程提供支持。
+    - **链接**: [https://zapier.com](https://zapier.com)
+
+- **Gradio**:
+    - Gradio 是通过友好的 Web 界面演示机器学习模型的最快方式，因此任何人都可以在任何地方使用它！
+    - **链接**: [https://gradio.app](https://gradio.app)
+
+- **CharacterGPT**:
+    - 世界上第一个从自然语言描述中生成交互式 AI 角色的多模态 AI 系统。简而言之，CharacterGPT 支持文本到字符的创建。
+    - **链接**: [https://alethea.ai](https://alethea.ai)
+
+- **Copilot Hub**:
+    - 欢迎来到 Copilot Hub，这个平台让创建和探索 Copilot 比以往任何时候都更容易！ Copilot Hub 提供了一种简单直观的方式来创建基于个人数据的 Copilot。在这里，任何人都可以创建一个 Copilot，而无需编码。这意味着每个人都可以充分利用 AI 能力，为协作和生产力打开一个无限可能的世界。
+    - **链接**: [https://app.copilothub.ai](https://app.copilothub.ai)
+
+- **智集魔方**:
+    - 3秒钟️, 创建和使用海量AI应用;
+    - **链接**: [https://www.ainavi.top/sites/1076.html](https://www.ainavi.top/sites/1076.html)
+
+- **Codeium**:
+    - 面向开发人员的免费 AI 驱动工具包。 内部模型和基础设施，而不是另一个 API 包装器。所有 IDE 中的扩展。自动完成和搜索，还有更多。
+    - **链接**: [https://codeium.com](https://codeium.com)
+
+- **AirOps**:
+    - 创建无缝集成大型语言模型（如 ChatGPT + 您的数据 + 业务逻辑）的 AI 应用程序
+    - **链接**: [https://www.airops.com](https://www.airops.com)
+
+- **Dify**:
+    - 简单地创建和操作 基于 GPT-4 的 AI 原生应用;您的团队可以基于 GPT-4 等模型开发 AI 应用程序，并进行可视化操作
+    - **链接**: [https://dify.ai](https://dify.ai)
+
+- **Leap AI**:
+    - 使用一流的 API 和 SDK 生成图像、编辑图像、微调模型、检索文本上下文等。
+    - **链接**: [https://www.tryleap.ai](https://www.tryleap.ai)
+
+- **MyShell**:
+    - 创建由 AI 和 Web3 提供支持的机器人的平台
+    - **链接**: [https://myshell.ai](https://myshell.ai)
+
+- **Auto-GPT**:
+    - Auto-GPT 是一个实验性开源应用程序，展示了 GPT-4 语言模型的功能。该程序由 GPT-4 驱动，将 LLM 的“思想”链接在一起，以自主实现您设定的任何目标。
+    - **链接**: [https://agpt.co](https://agpt.co)
+
+- **AgentGPT**:
+    - AgentGPT 允许您配置和部署自治 AI 代理。为您的自定义 AI 命名并让它开始任何可以想象的目标。
+    - **链接**: [https://agentgpt.reworkd.ai](https://agentgpt.reworkd.ai)
+
+- **Locofy**:
+    - 将设计转化为 Web 和移动设备的前端 。构建完整的应用程序、屏幕、组件和设计系统
+    - **链接**: [https://www.locofy.ai](https://www.locofy.ai)
+
+- **Sketch2Code**:
+    - 微软AI Lab旗下，Sketch2Code 使用 AI 将手写绘图转换为可工作的 HTML 原型。设计师在白板上分享想法，然后更改立即显示在浏览器中。
+    - **链接**: [https://www.microsoft.com/en-us/ai/ai-lab-sketch2code](https://www.microsoft.com/en-us/ai/ai-lab-sketch2code)
+
+- **Fronty AI**:
+    - 世界上第一个图像到 HTML 转换器；Fronty AI 会将您的图像转换为 HTML CSS 代码。  几分钟后，您将从上传的图片中获取 HTML CSS 代码。
+    - **链接**: [https://fronty.com](https://fronty.com)
+
+- **Imagica**:
+    - 在几分钟内构建无代码 AI 应用程序；通过描述来创建任何 AI
+    - **链接**: [https://www.imagica.ai](https://www.imagica.ai)
+
+- **AI Ops**:
+    - 将 LLM 带入您最重要流程的高级 AI 应用程序。告诉我们您的用例，开启您的 AI Ops 之旅。
+    - **链接**: [https://www.airops.com](https://www.airops.com)
+
+- **OpenGPT**:
+    - 在几秒钟内创建 ChatGPT 应用程序
+    - **链接**: [https://open-gpt.app](https://open-gpt.app)
+
+- **Obviously AI**:
+    - 无代码AI平台;轻松构建机器学习模型，并使用它们在几分钟内预测结果，无需编写代码
+    - **链接**: [https://www.obviously.ai](https://www.obviously.ai)
+### 办公生产力
+#### 生产效率
+
+- **Godmode**:
+    - Godmode 是一个访问 autoGPT 和 BabyAGI 自动化功能的网络平台。人工智能代理仍处于起步阶段，但它们的能力正在快速增长，我们希望 Godmode 能让更多人即使在这个早期阶段也能利用自主人工智能代理。
+    - **链接**: [https://godmode.space](https://godmode.space)
+
+- **Channel**:
+    - 用简单的英语向您的数据库询问问题。连接您的数据库，提出问题，获得答案。无需了解 SQL 即可获得所需的答案。
+    - **链接**: [https://www.usechannel.com](https://www.usechannel.com)
+
+- **Cellie**:
+    - Cellie——您的人工智能数据分析师  人工智能驱动的公式生成、数据准备和数据分析合二为一
+    - **链接**: [https://formulabot.com](https://formulabot.com)
+
+- **Magic Thumbnails**:
+    - 使用 AI 生成 YouTube 缩略图，在下面输入视频标题和描述，我们将为其生成缩略图。 为了获得最佳结果，请尝试使用文本+脸部的简单缩略图效果很好的标题，因为这就是该模型目前所做的全部工作。
+    - **链接**: [https://magicthumbnails.com](https://magicthumbnails.com)
+
+- **Replai.so**:
+    - Replai.so 是与社区联系的最简单方式，在社交媒体上看起来聪明、有趣、专业，显得更聪明，并以 10 倍的努力增加受众。为 Twitter、LinkedIn 和 Product Hunt 工作。Replai.so 功能强大且极其简单。适用于 Twitter 和 LinkedIn。
+    - **链接**: [https://replai.so](https://replai.so)
+
+- **Regie.ai**:
+    - 使用人工智能简化勘探工作，同时提高参与度; Regie.ai 是唯一专为企业销售团队打造的生成式人工智能平台。利用技术作为队友，人工智能可以协助和自动化勘探过程中最耗时的部分，从而提高工作效率和任务参与度。
+    - **链接**: [https://www.regie.ai](https://www.regie.ai)
+
+- **Instantly**:
+    - 通过无限制的电子邮件发送帐户和预热，b2b潜在客户数据库和智能AI立即扩展您的外展活动
+    - **链接**: [https://instantly.ai](https://instantly.ai)
+
+- **Nanonets**:
+    - 使用 AI 自动手动输入数据；立即从文档中捕获数据。减少周转时间和所需的手动工作。使用 AI 读取看不见的半结构化文档，这些文档不遵循通用 OCR 软件等标准模板。
+    - **链接**: [https://nanonets.com](https://nanonets.com)
+
+- **WPS AI**:
+    - “WPS AI”是金山办公旗下具备了大语言模型能力的一款生成式人工智能应用，也是中国协同办公赛道首个类ChatGPT式应用。
+    - **链接**: [https://ai.wps.cn](https://ai.wps.cn)
+
+- **Board AI 智能白板**:
+    - Board AI 内容创作平台，实现AI自动生成内容、AI一键PPT、AI思维导图、AI绘画、AI写作等，多人在线实时协作，一键分享文件，释放无尽可能
+    - **链接**: [https://boardmix.cn/ai-whiteboard](https://boardmix.cn/ai-whiteboard)
+
+- **树图**:
+    - 新一代“AI人工智能”思维导图 海量知识导图、素材资源；一键AI生成导图；分屏浏览，边看资料边做导图；跨平台文件同步；团队协作与管理、多人同时编辑一个导图；开放平台，更多外部应用
+    - **链接**: [https://shutu.cn](https://shutu.cn)
+
+- **Xmind Copilot**:
+    - 使用思维导图轻松组织您的想法，让 GPT 处理细节;使用 Xmind Copilot 彻底改变您的写作过程，
+    - **链接**: [https://xmind.ai](https://xmind.ai)
+
+- **字语智能Office**:
+    - 知识引擎：提供丰富的创作素材；多场景协作：满足多样的创作需求；AI工具箱：用更智能的方式创作；模块化工作台：打造专属的创作流程。
+    - **链接**: [https://getgetai.com/home](https://getgetai.com/home)
+
+- **Decktopus**:
+    - 世界排名第一的人工智能演示文稿生成器
+    - **链接**: [https://www.decktopus.com](https://www.decktopus.com)
+
+- **Powerpresent AI**:
+    - 使用 AI 以 10 倍的速度创建令人惊叹的演示文稿;借助 AI 演示文稿的强大功能，快速启动您的演示文稿。让 AI 自动构建专业演示文稿！
+    - **链接**: [https://powerpresent.ai](https://powerpresent.ai)
+
+- **爱设计PPT**:
+    - 担心没有思路？何必苦苦寻觅模版？  不懂设计又何妨？  说出你的内容主题，让AI为你一站式服务到底
+    - **链接**: [https://ppt.isheji.com](https://ppt.isheji.com)
+
+- **Chronicle**:
+    - 在 Chronicle 中，一切都是用 Blocks 制作的，这些 Blocks 具有像素完美的设计、交互性和开箱即用的动作。无需从头开始设计，只需从我们的积木库中选择合适的积木，即可见证魔法的展开。
+    - **链接**: [https://chroniclehq.com](https://chroniclehq.com)
+
+- **Presentations.AI**:
+    - AI 使您能够创建令人惊叹的演示文稿， 以思想的速度
+    - **链接**: [https://www.presentations.ai](https://www.presentations.ai)
+
+- **SlidesAI**:
+    - 告别繁琐的手动幻灯片创建。让 AI 为您编写大纲和演示内容。使用我们的工具，您可以立即从任何文本轻松创建引人入胜的专业幻灯片。
+    - **链接**: [https://www.slidesai.io](https://www.slidesai.io)
+
+- **MindShow**:
+    - 写下你的想法，自动生成幻灯片 ;不再调整文本和图像的大小
+    - **链接**: [https://www.mindshow.fun](https://www.mindshow.fun)
+
+- **Beautiful.ai**:
+    - 智能模板为您的团队提供制作演示文稿的蓝图。客户喜爱的现代产品。
+    - **链接**: [https://www.beautiful.ai](https://www.beautiful.ai)
+
+- **Gamma**:
+    - 使用我们强大的 AI 生成器，您可以在不到一分钟的时间内创建可工作的演示文稿、文档或网页。
+    - **链接**: [https://gamma.app](https://gamma.app)
+
+- **Taskade**:
+    - 五款 AI 驱动的工具合二为一，可提高您团队的工作效率。使用 Taskade，您的所有工作都在一个统一的工作空间中同步进行
+    - **链接**: [https://www.taskade.com](https://www.taskade.com)
+
+- **Cody**:
+    - Cody 是一个像 ChatGPT 一样的智能 AI 助手——还有一个额外的好处，那就是能够使用您自己的知识库针对您的业务、您的团队、您的流程和您的客户对其进行培训。
+    - **链接**: [https://meetcody.ai](https://meetcody.ai)
+
+- **Notion AI**:
+    - 在 Notion 中访问 AI 的无限力量。工作更快。写得更好。想得更大。
+    - **链接**: [https://www.notion.so/product/ai](https://www.notion.so/product/ai)
+
+- **Dora AI**:
+    - 有了Dora AI，你可以用自然语言生成、定制和部署网站--所有这些都在Dora强大的无代码编辑器中。? 在几秒钟内生成令人惊叹、完全可编辑的网站。? 将静态设计转化为3D。? 自动化你的动画制作过程。
+    - **链接**: [https://www.dora.run/ai](https://www.dora.run/ai)
+
+- **Durable**:
+    - 人工智能网站构建器，可在几秒钟内生成带有图像和副本的整个网站。
+    - **链接**: [https://durable.co](https://durable.co)
+
+- **tl;dv**:
+    - 自动录制和转录 Zoom 和 Google Meet；专注于谈话。 AI 会记录你的笔记
+    - **链接**: [https://tldv.io](https://tldv.io)
+
+- **ChatExcel**:
+    - 仅通过聊天来操控您的Excel表格
+    - **链接**: [https://chatexcel.com](https://chatexcel.com)
+
+- **Ajelix**:
+    - AI Excel 工具，帮助您编写和解释公式、翻译电子表格、生成模板和编写 VBA 脚本的速度提高 10 倍。
+    - **链接**: [https://ajelix.com](https://ajelix.com)
+
+- **Sheet+**:
+    - 抛弃繁琐的公式编写，让 AI 为您代劳。在几秒钟内将您的文本转换为准确的 Excel 公式和 Google 表格公式，并节省高达 80% 的电子表格工作时间。
+    - **链接**: [https://sheetplus.ai](https://sheetplus.ai)
+
+- **Excelly-AI**:
+    - 在您的浏览器中毫不费力地将纯文本转换为强大的 Excel 公式！
+    - **链接**: [https://excelly-ai.io](https://excelly-ai.io)
+
+- **Tome**:
+    - 在命令栏中输入提示，然后让 Tome 为您生成演示文稿、大纲或故事——包括文本和图像。使用提示添加具有更多上下文的新页面。
+    - **链接**: [https://tome.app](https://tome.app)
+
+- **Excel Formularizer**:
+    - 免费使用 AI 的强大功能，在几秒钟内将您的文本指令转换为 Excel 公式。
+    - **链接**: [https://excelformularizer.com](https://excelformularizer.com)
+
+- **Formula Bot**:
+    - 使用 AI 彻底改变您的数据和电子表格工作流程。在几秒钟内免费将您的文本说明转换为公式等。
+    - **链接**: [https://formulabot.com](https://formulabot.com)
+
+- **FormX**:
+    - 使用 AI 自动提取和捕获数据;FormX 是一种数据提取工具，它使用人工智能 (AI) 将信息从物理文档转换为结构化数字数据。
+    - **链接**: [https://www.formx.ai](https://www.formx.ai)
+
+- **Rows**:
+    - 使数据栩栩如生的电子表格
+    - **链接**: [https://rows.com](https://rows.com)
+
+- **SheetGod**:
+    - 几秒钟内将英文转换为 Excel 公式的 AI 工具。
+    - **链接**: [https://www.boloforms.com/sheetgod](https://www.boloforms.com/sheetgod)
+
+- **ChatBA**:
+    - 幻灯片的生成 AI ? 在图像的 DALL-E 2 和文本的 ChatGPT 之后，让我们所有人都变得多余的最后一步：世界上第一个文本到 PowerPoint 的实现。
+    - **链接**: [https://www.chatba.com](https://www.chatba.com)
+
+- **MotionGo**:
+    - 命令式智能对话一键生成PPT，让PPT文档表达更加快速、高效
+    - **链接**: [https://motion.yoo-ai.com](https://motion.yoo-ai.com)
+
+- **Miro**:
+    - 在 Miro 的免费、易于使用的虚拟白板上一起构建任何东西。就像您的白板一样 — 只是一个更好的、加载了功能的无限版本。
+    - **链接**: [https://miro.com](https://miro.com)
+
+- **Whimsical**:
+    - Whimsical旗下用于思维导图的 AI;触手可及的新鲜创意
+    - **链接**: [https://whimsical.com/a](https://whimsical.com/a)
+
+- **Ayoa Ultimate**:
+    - 使用终极工具集进行思维导图  用 AI 激发您的想法，与您的团队一起集思广益，管理项目任务，并组织个人待办事项列表，所有这些都在一个地方。
+    - **链接**: [https://www.ayoa.com/ultimate](https://www.ayoa.com/ultimate)
+
+- **AmyMind**:
+    - 伴你思考的AI思维导图 打开即用，思维导图的基本素养。
+    - **链接**: [https://amymind.com](https://amymind.com)
+
+- **GitMind**:
+    - 新一代免费思维导图协作软件，头脑风暴、思想共创，激发思想流动，让智慧自然涌现
+    - **链接**: [https://gitmind.cn](https://gitmind.cn)
+
+- **ChatMind**:
+    - ChatMind AI 可用于多种场景，例如记笔记、日程安排、项目管理、头脑风暴、框架等等。 既能帮助用户快速总结分析，又能源源不断地提供创作灵感。
+    - **链接**: [https://www.chatmind.tech](https://www.chatmind.tech)
+
+- **Buzz**:
+    - 离线音频转录和翻译;由 OpenAI 的 Whisper 提供支持
+    - **链接**: [https://chidiwilliams.github.io/buzz/docs](https://chidiwilliams.github.io/buzz/docs)
+
+- **Timely**:
+    - 人工智能驱动的自动时间跟踪器;及时自动跟踪公司时间，因此您和您的团队可以专注于重要的工作
+    - **链接**: [https://timelyapp.com](https://timelyapp.com)
+
+- **Raycast AI**:
+    - Raycast旗下的Mac AI助手;使用 Raycast 中的 ChatGPT 更智能地编写代码、更快地编写代码并更快地回答问题。深度集成到 macOS 中，只需一键即可
+    - **链接**: [https://www.raycast.com/pro](https://www.raycast.com/pro)
+
+- **周报生成器**:
+    - 简单描述工作内容 帮你生成完整周报
+    - **链接**: [https://weeklyreport.avemaria.fun](https://weeklyreport.avemaria.fun)
+
+- **PMAI**:
+    - 产品AI小帮手；PRD生成；SQL生成；PRD检查；周报生成 ；流程图生成；原型图转功能描述；
+    - **链接**: [https://www.pm-ai.cn](https://www.pm-ai.cn)
+
+- **HoppyCopy**:
+    - 撰写高转化率电子邮件，速度提高 10 倍
+    - **链接**: [https://www.hoppycopy.co](https://www.hoppycopy.co)
+
+### 思维导图
+
+- **Board AI 智能白板**:
+    - Board AI 内容创作平台，实现AI自动生成内容、AI一键PPT、AI思维导图、AI绘画、AI写作等，多人在线实时协作，一键分享文件，释放无尽可能
+    - **链接**: [https://boardmix.cn/ai-whiteboard](https://boardmix.cn/ai-whiteboard)
+
+- **树图**:
+    - 新一代“AI人工智能”思维导图 海量知识导图、素材资源；一键AI生成导图；分屏浏览，边看资料边做导图；跨平台文件同步；团队协作与管理、多人同时编辑一个导图；开放平台，更多外部应用
+    - **链接**: [https://shutu.cn](https://shutu.cn)
+
+- **Xmind Copilot**:
+    - 使用思维导图轻松组织您的想法，让 GPT 处理细节;使用 Xmind Copilot 彻底改变您的写作过程，
+    - **链接**: [https://xmind.ai](https://xmind.ai)
+
+- **Miro**:
+    - 在 Miro 的免费、易于使用的虚拟白板上一起构建任何东西。就像您的白板一样 — 只是一个更好的、加载了功能的无限版本。
+    - **链接**: [https://miro.com](https://miro.com)
+
+- **Whimsical**:
+    - Whimsical旗下用于思维导图的 AI;触手可及的新鲜创意
+    - **链接**: [https://whimsical.com/a](https://whimsical.com/a)
+
+- **Ayoa Ultimate**:
+    - 使用终极工具集进行思维导图  用 AI 激发您的想法，与您的团队一起集思广益，管理项目任务，并组织个人待办事项列表，所有这些都在一个地方。
+    - **链接**: [https://www.ayoa.com/ultimate](https://www.ayoa.com/ultimate)
+
+- **AmyMind**:
+    - 伴你思考的AI思维导图 打开即用，思维导图的基本素养。
+    - **链接**: [https://amymind.com](https://amymind.com)
+
+- **GitMind**:
+    - 新一代免费思维导图协作软件，头脑风暴、思想共创，激发思想流动，让智慧自然涌现
+    - **链接**: [https://gitmind.cn](https://gitmind.cn)
+
+- **ChatMind**:
+    - ChatMind AI 可用于多种场景，例如记笔记、日程安排、项目管理、头脑风暴、框架等等。 既能帮助用户快速总结分析，又能源源不断地提供创作灵感。
+    - **链接**: [https://www.chatmind.tech](https://www.chatmind.tech)
+
+#### 电子表格
+
+- **Cellie**:
+    - Cellie——您的人工智能数据分析师  人工智能驱动的公式生成、数据准备和数据分析合二为一
+    - **链接**: [https://formulabot.com](https://formulabot.com)
+
+- **ChatExcel**:
+    - 仅通过聊天来操控您的Excel表格
+    - **链接**: [https://chatexcel.com](https://chatexcel.com)
+
+- **Ajelix**:
+    - AI Excel 工具，帮助您编写和解释公式、翻译电子表格、生成模板和编写 VBA 脚本的速度提高 10 倍。
+    - **链接**: [https://ajelix.com](https://ajelix.com)
+
+- **Sheet+**:
+    - 抛弃繁琐的公式编写，让 AI 为您代劳。在几秒钟内将您的文本转换为准确的 Excel 公式和 Google 表格公式，并节省高达 80% 的电子表格工作时间。
+    - **链接**: [https://sheetplus.ai](https://sheetplus.ai)
+
+- **Excelly-AI**:
+    - 在您的浏览器中毫不费力地将纯文本转换为强大的 Excel 公式！
+    - **链接**: [https://excelly-ai.io](https://excelly-ai.io)
+
+- **Excel Formularizer**:
+    - 免费使用 AI 的强大功能，在几秒钟内将您的文本指令转换为 Excel 公式。
+    - **链接**: [https://excelformularizer.com](https://excelformularizer.com)
+
+- **Formula Bot**:
+    - 使用 AI 彻底改变您的数据和电子表格工作流程。在几秒钟内免费将您的文本说明转换为公式等。
+    - **链接**: [https://formulabot.com](https://formulabot.com)
+
+- **FormX**:
+    - 使用 AI 自动提取和捕获数据;FormX 是一种数据提取工具，它使用人工智能 (AI) 将信息从物理文档转换为结构化数字数据。
+    - **链接**: [https://www.formx.ai](https://www.formx.ai)
+
+- **Rows**:
+    - 使数据栩栩如生的电子表格
+    - **链接**: [https://rows.com](https://rows.com)
+
+- **SheetGod**:
+    - 几秒钟内将英文转换为 Excel 公式的 AI 工具。
+    - **链接**: [https://www.boloforms.com/sheetgod](https://www.boloforms.com/sheetgod)
+
+#### 邮件处理
+
+- **Instantly**:
+    - 通过无限制的电子邮件发送帐户和预热，b2b潜在客户数据库和智能AI立即扩展您的外展活动
+    - **链接**: [https://instantly.ai](https://instantly.ai)
+
+- **HoppyCopy**:
+    - 撰写高转化率电子邮件，速度提高 10 倍
+    - **链接**: [https://www.hoppycopy.co](https://www.hoppycopy.co)
+
 
 ## 如何贡献
 1. Fork本仓库。
