@@ -646,6 +646,183 @@
 - **Midjourney**:
     - 目前最强的AI绘画工具
     - **链接**: [https://www.midjourney.com](https://www.midjourney.com)
+#### 图片编辑
+
+- **Topaz Photo AI**:
+    - 让您的照片像拍摄时一样清晰锐利。利用未来的技术锐化、降噪和升级您的图像。
+    - **链接**: [https://www.topazlabs.com/topaz-photo-ai](https://www.topazlabs.com/topaz-photo-ai)
+
+- **Lets Enhance**:
+    - 用精美的照片提高转化率。生成背景， 提高质量、删除背景等;增强您的创造力和业务能力;具有新水平的图像人工智能
+    - **链接**: [https://letsenhance.io](https://letsenhance.io)
+
+- **AI Imgage Enlarger**:
+    - 使用 AI 图像放大器放大和增强图像；一键式 AI 解决方案让您的照片更清晰、更清晰、更干净。提高图像分辨率而不损失质量。
+    - **链接**: [https://imglarger.com](https://imglarger.com)
+
+- **Nostalgia Photo**:
+    - 怀旧照片通过最新的尖端人工智能使旧照片栩栩如生。只需单击几下即可获得最大分辨率和几美分。
+    - **链接**: [https://www.nostalgia.photo](https://www.nostalgia.photo)
+
+- **BeFunky**:
+    - BeFunky的多合一在线创意平台拥有轻松编辑照片，创建图形设计和制作照片拼贴所需的一切。
+    - **链接**: [https://www.befunky.com](https://www.befunky.com)
+
+- **Arti.pics**:
+    - Arti.pics 是一个人工智能驱动的平台，提供各种照片编辑服务，例如着色、修复和增强。 它使用机器学习算法来提高照片的整体质量和外观。
+    - **链接**: [https://www.ainavi.top/sites/2120.html](https://www.ainavi.top/sites/2120.html)
+
+- **美图云修**:
+    - 美图云修 AI修大片 以影像「AI美学」致专业效果
+    - **链接**: [https://yunxiu.meitu.com/home](https://yunxiu.meitu.com/home)
+
+- **jpgHD**:
+    - jpgHD人工智能老照片无损修复 利用2023年最先进人工智能 AI 将老照片无损高清修复（支持老照片修复、老照片上色和魔法动态照片）
+    - **链接**: [https://jpghd.com/zh](https://jpghd.com/zh)
+
+- **Quicktools Background Remover**:
+    - 快速免费的背景去除器;只需几秒钟即可从图像中删除背景。您的创意之旅从这里开始。让我们开始吧
+    - **链接**: [https://tools.picsart.com/image/background-remover](https://tools.picsart.com/image/background-remover)
+
+- **Hotpot**:
+    - 使用 AI 在几秒钟内从图像中删除背景。我们的人工智能旨在识别产品和人物，自动擦除背景。
+    - **链接**: [https://hotpot.ai](https://hotpot.ai)
+
+- **Mokker AI**:
+    - AI背景移除
+    - **链接**: [https://mokker.ai](https://mokker.ai)
+
+- **Erase.bg**:
+    - 从人类、动物或物体的图像中移除背景，免费下载高分辨率图像
+    - **链接**: [https://www.erase.bg](https://www.erase.bg)
+
+- **SnapEdit**:
+    - 使用 AI 技术更快地从照片中移除人物、移除对象
+    - **链接**: [https://snapedit.app](https://snapedit.app)
+
+- **PhotoRoom**:
+    - 最准确的免费背景去除器
+    - **链接**: [https://www.photoroom.com](https://www.photoroom.com)
+
+- **Cleanup.pictures**:
+    - 在几秒钟内从您的图片中删除任何不需要的对象、缺陷、人物或文本
+    - **链接**: [https://cleanup.pictures](https://cleanup.pictures)
+
+- **PhotoScissors**:
+    - 自动和免费删除图像背景;只需点击几下，即可删除背景并将其替换为透明、纯色或背景图像！
+    - **链接**: [https://photoscissors.com](https://photoscissors.com)
+
+- **BgSub**:
+    - 不仅可以自动去除图像背景 而且无需上传您的图像数据 从根本上保护用户隐私
+    - **链接**: [https://bgsub.cn](https://bgsub.cn)
+
+- **Pixlr Remove bg**:
+    - 免费和100％自动BG拆卸！ 仅几秒钟内拆除一键单击的自动背景！
+    - **链接**: [https://pixlr.com/cn/remove-background](https://pixlr.com/cn/remove-background)
+
+- **Hama**:
+    - Hama 是一款基于 AI 的网络应用程序，可让您使用单刷擦除照片中的对象。
+    - **链接**: [https://www.hama.app](https://www.hama.app)
+
+- **Clipping Magic**:
+    - 魔术般地删除图像背景
+    - **链接**: [https://zh.clippingmagic.com](https://zh.clippingmagic.com)
+
+- **jpgRM**:
+    - AI 魔术橡皮擦 利用2023年最先进人工智能 AI 帮你将图片中任何不需要的部分智能擦除、填补背景内容、消除水印
+    - **链接**: [https://jpgrm.com](https://jpgrm.com)
+
+- **Removal.AI**:
+    - 使用人工智能免费从图像中删除背景
+    - **链接**: [https://removal.ai](https://removal.ai)
+
+- **Slazzer**:
+    - 自动和免费删除图像背景
+    - **链接**: [https://www.slazzer.com](https://www.slazzer.com)
+
+- **Remove.bg**:
+    - 一键式在 5 秒内自动 100% 删除背景
+    - **链接**: [https://www.remove.bg](https://www.remove.bg)
+
+- **ImgCleaner**:
+    - 智能 JPG / PNG 图像清洁器
+    - **链接**: [https://imgcleaner.com](https://imgcleaner.com)
+
+- **Remover**:
+    - 几秒钟免费删除任何不需要的东西
+    - **链接**: [https://remover.zmo.ai](https://remover.zmo.ai)
+
+- **ImgUpscaler**:
+    - 智能 PNG / JPG 图像升级器
+    - **链接**: [https://imgupscaler.com](https://imgupscaler.com)
+
+- **Zyro AI Image Upscaler**:
+    - 不要再担心图像分辨率——使用 Zyro 的 AI Image Upscaler 增强图像并升级您的低分辨率快照
+    - **链接**: [https://zyro.com/tools/image-upscaler](https://zyro.com/tools/image-upscaler)
+
+- **Upscalepics**:
+    - Upscalepics 通过人工智能或 AI 的力量来制作高档图像
+    - **链接**: [https://upscalepics.com](https://upscalepics.com)
+
+- **CLIPDROP UPSCALE**:
+    - 在几秒钟内提升、降噪和增强您的图像
+    - **链接**: [https://clipdrop.co/image-upscaler](https://clipdrop.co/image-upscaler)
+
+- **PhotoAid image upscaler**:
+    - 免费在线 AI 图像放大器
+    - **链接**: [https://photoaid.com](https://photoaid.com)
+
+- **腾讯Arc**:
+    - 腾讯旗下ARC实验室推出的AI图片处理工具
+    - **链接**: [https://arc.tencent.com/zh/ai-demos/faceRestoration](https://arc.tencent.com/zh/ai-demos/faceRestoration)
+
+- **Smart Upscaler**:
+    - 使用 AI 增强图像分辨率
+    - **链接**: [https://icons8.com/upscaler](https://icons8.com/upscaler)
+
+- **Pixel­hunter**:
+    - 用于社交媒体的免费 AI 图像缩放器
+    - **链接**: [https://pixelhunter.io](https://pixelhunter.io)
+
+- **Ribbet.ai**:
+    - AI 照片编辑变得免费和简单
+    - **链接**: [https://ribbet.ai](https://ribbet.ai)
+
+- **VanceAI Image Resizer**:
+    - 允许您免费在线调整图像大小。为网站、博客、社交媒体等调整图像大小，全部使用我们的免费图像调整器。
+    - **链接**: [https://vanceai.com/image-resizer](https://vanceai.com/image-resizer)
+
+- **BoolTool**:
+    - 一款在线免费AI图像工具箱,多合一的惊人工具套件
+    - **链接**: [https://booltool.boolv.tech/home](https://booltool.boolv.tech/home)
+
+- **Bigjpg**:
+    - AI人工智能图片放大
+    - **链接**: [https://bigjpg.com](https://bigjpg.com)
+
+- **PicWish**:
+    - PicWish 是一款基于 AI 的图像处理工具，可让您从重复性任务中解放出来，从事更有价值的创意工作。
+    - **链接**: [https://picwish.com](https://picwish.com)
+
+- **restorePhotos.io**:
+    - 为每个人使用 AI 修复旧照片
+    - **链接**: [https://www.restorephotos.io](https://www.restorephotos.io)
+
+- **Fotor image upscaler**:
+    - 免费在线 AI 图像放大器
+    - **链接**: [https://www.fotor.com/image-upscaler](https://www.fotor.com/image-upscaler)
+
+- **AI万能图片编辑器**:
+    - 在线修改图片颜色尺寸；智能抠图去水印；AI/EPS/PSD/SVG全格式支持的在线图片编辑器。
+    - **链接**: [https://img.logosc.cn](https://img.logosc.cn)
+
+- **Upscale.media**:
+    - 免费升级和增强您的图片
+    - **链接**: [https://www.upscale.media](https://www.upscale.media)
+
+- **PromeAI**:
+    - PromeAI 拥有强大的 AI 驱动设计助手和丰富的可控 AIGC (C-AIGC) 模型样式库，使您能够轻松创建令人惊叹的图形、视频和动画
+    - **链接**: [https://www.promeai.com](https://www.promeai.com)
 
 ### AI视频
 - **Synthesia**: 使用数字形象创建AI驱动的视频
