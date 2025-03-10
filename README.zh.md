@@ -1428,6 +1428,27 @@
 - **Soundraw**:
     - 为创作者提供的AI音乐生成器
     - **链接**: [https://soundraw.io](https://soundraw.io)
+#### 音频编辑
+
+- **LALAL.AI**:
+    - 下一代人声去除器和音乐源分离服务，可快速、轻松和精确地提取词干。移除人声、乐器、鼓、贝斯、钢琴、电吉他、原声吉他和合成器音轨而不会造成质量损失。
+    - **链接**: [https://www.lalal.ai](https://www.lalal.ai)
+
+- **Vocalremover**:
+    - 移除人声并隔离 用强大的人工智能算法将声音从音乐中分离出来
+    - **链接**: [https://vocalremover.org/zh](https://vocalremover.org/zh)
+
+- **Voicemod**:
+    - 探索由人工智能驱动的新型语音过滤器。随时随地运用声波身份的力量。免费。
+    - **链接**: [https://www.voicemod.net/ai-voices](https://www.voicemod.net/ai-voices)
+
+- **Audo Studio**:
+    - 一键音频清理；使用音频处理和人工智能的最新进展自动消除背景噪音并增强您的语音。在几秒钟而不是几小时内清理您的音频！
+    - **链接**: [https://audo.ai](https://audo.ai)
+
+- **MetaVoice**:
+    - 使用工作室品质的 AI 配音和实时 AI 变声自定义您的在线身份
+    - **链接**: [https://themetavoice.xyz](https://themetavoice.xyz)
 
 
 ### AI代码
