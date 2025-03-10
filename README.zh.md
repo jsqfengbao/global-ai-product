@@ -1450,6 +1450,52 @@
     - 使用工作室品质的 AI 配音和实时 AI 变声自定义您的在线身份
     - **链接**: [https://themetavoice.xyz](https://themetavoice.xyz)
 
+#### 音频分析增强
+
+- **Airgram**:
+    - 专注于您的会议，而不是记笔记；Airgram 有助于记录、转录、总结和共享会议对话。最大化内部会议和面向客户会议的价值。
+    - **链接**: [https://www.airgram.io](https://www.airgram.io)
+
+- **Noty.ai**:
+    - Noty.ai 是一个由 ChatGPT 提供支持的会议助手，可在几秒钟内将会议转换为转录、行动项目、摘要和跟进。
+    - **链接**: [https://noty.ai](https://noty.ai)
+
+- **OtterPilot**:
+    - 获取可录制音频、编写笔记、自动捕获幻灯片和生成摘要的 AI 会议助手。
+    - **链接**: [https://otter.ai](https://otter.ai)
+
+- **麦耳会记**:
+    - 麦耳会记是思必驰旗下一款集实时语音转写，实时翻译功能为一体的应用软件，主要应用于办公会议、学生网课、客户访谈录音等场景。
+    - **链接**: [https://work.duiopen.com](https://work.duiopen.com)
+
+- **讯飞听见**:
+    - 智慧办公 + 语音语言服务；AI加持，软硬件一体提升办公效率 以专业录音、实时语音转文字及翻译为核心功能的智能硬件， 无缝连接讯飞听见网站、App、客户端，支持多种语言、方言，可有效提升学生在校学习和职场人办公记录效率
+    - **链接**: [https://www.iflyrec.com](https://www.iflyrec.com)
+
+- **飞书妙记**:
+    - 音视频转文字，音字对应播放，精准识别讲者， 随心倍速播放，搜索快速定位，多语一键翻译。  智能提炼，提效 n 倍 关键词智能提取，会议内容完整沉淀， 重点信息一目了然，待办事项一件不漏
+    - **链接**: [https://www.feishu.cn/product/minutes](https://www.feishu.cn/product/minutes)
+
+- **通义听悟**:
+    - 「通义听悟」是你的工作学习AI助手，依托大模型，为每一个人提供全新的音视频体验。  通义听悟可以在会议、学习、访谈、培训等场景下：  ? 实时记录交流内容，同步翻译 ? 批量转写音视频文件，区分发言人 ? 智能提炼全文概要、章节速览、发言总结 ? 自动提取关键词、问题、待办事项 ? 编辑整理笔记，导出记录
+    - **链接**: [https://tingwu.aliyun.com](https://tingwu.aliyun.com)
+
+- **Fireflies**:
+    - Fireflies.ai 帮助您的团队记录、转录、搜索和分析语音对话。
+    - **链接**: [https://fireflies.ai](https://fireflies.ai)
+
+- **Krisp**:
+    - 使用 Voice Productivity AI 增强您的在线会议
+    - **链接**: [https://krisp.ai](https://krisp.ai)
+
+- **Voice.ai**:
+    - 免费实时语音转换器
+    - **链接**: [https://voice.ai](https://voice.ai)
+
+- **Notta**:
+    - 文本与语音相遇的地方。你说话，我们打字
+    - **链接**: [https://www.notta.ai](https://www.notta.ai)
+
 
 ### AI代码
 - **GitHub Copilot**: 用于代码补全的AI结对程序员
