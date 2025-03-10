@@ -5,8 +5,13 @@
 ## AI分类与产品
 
 ### AI写作
-- **AI Writer**: 用于内容创作的AI写作助手
-- **CopyAI**: 生成营销文案和创意内容
+#### 智能问答
+- **Teamsmart AI**: Teamsmart.ai 代表了基于科学研究的下一代人工智能助手。它被设计为可通过聊天界面和 Chrome 扩展程序进行访问。使用您自己的 AI 助手每周节省 10 多个小时
+- **链接**： [https://www.teamsmart.ai/](https://www.teamsmart.ai/)
+
+#### 写作助手
+#### 内容营销
+#### 文档识别
 
 ### AI图像
 - **MidJourney**: 用于创建精美视觉效果的AI艺术生成器
