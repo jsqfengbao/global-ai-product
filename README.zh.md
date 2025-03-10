@@ -1379,6 +1379,55 @@
 - **Rask AI**:
     - 视频本地化的一站式服务：（60种语言！）Rask AI目前支持60多种语言的视频输出，包括德语、法语、西班牙语、中文、英语、土耳其语等，而不考虑源语言。我们相信，我们的技术能够为大多数语言提供可接受的翻译水平，而且我们通过语音克隆功能提供了类似人类的体验，目前仅在英语中可用。
     - **链接**: [https://zh.rask.ai](https://zh.rask.ai)
+#### 音乐创作
+
+- **ACE Studio**:
+    - ACE Studio随时随地使用 AI 实现无限人声
+    - **链接**: [https://ace-studio.timedomain.cn](https://ace-studio.timedomain.cn)
+
+- **X Studio · AI歌手**:
+    - X Studio · AI歌手为热爱音乐的你  带来时刻在线的AI歌手伙伴
+    - **链接**: [https://xstudio.music.163.com](https://xstudio.music.163.com)
+
+- **AIVA**:
+    - 人工智能谱写情感配乐;无论您是独立游戏开发者、音乐新手，还是经验丰富的专业作曲家，AIVA 都能在您的创作过程中为您提供帮助。利用 AI 生成音乐的力量，以前所未有的速度为您的项目创建引人入胜的主题。
+    - **链接**: [https://www.aiva.ai](https://www.aiva.ai)
+
+- **文心歌词生成**:
+    - 文心大模型支持，10秒创作一首歌
+    - **链接**: [https://wenxin.baidu.com/wenxin/pc/lyrics](https://wenxin.baidu.com/wenxin/pc/lyrics)
+
+- **Riffusion**:
+    - 一款通过AI生成不同风格的音乐的工具
+    - **链接**: [https://www.riffusion.com](https://www.riffusion.com)
+
+- **lemonaide**:
+    - 通过 A.I. 的力量，能够通过该工具为您提供超过 5000 万个独特的 MIDI 进程
+    - **链接**: [https://www.lemonaide.ai](https://www.lemonaide.ai)
+
+- **Boomy**:
+    - 在几秒钟内创作原创歌曲，即使您以前从未制作过音乐
+    - **链接**: [https://boomy.com](https://boomy.com)
+
+- **网易天音**:
+    - 为流行音乐专业伴奏编曲，提供快速模版化工作。输入灵感，AI辅助完成词、曲、编、唱，生成AI初稿后，支持词曲协同调整。
+    - **链接**: [https://tianyin.music.163.com](https://tianyin.music.163.com)
+
+- **BeatBot**:
+    - 根据你的文字提示来创作歌曲
+    - **链接**: [https://beatbot.fm](https://beatbot.fm)
+
+- **Mubert**:
+    - 人工智能生成音乐为您的视频内容、播客和应用程序
+    - **链接**: [https://mubert.com](https://mubert.com)
+
+- **BGM猫**:
+    - 一键生成视频/播客配乐和片头音乐
+    - **链接**: [https://bgmcat.com/home](https://bgmcat.com/home)
+
+- **Soundraw**:
+    - 为创作者提供的AI音乐生成器
+    - **链接**: [https://soundraw.io](https://soundraw.io)
 
 
 ### AI代码
