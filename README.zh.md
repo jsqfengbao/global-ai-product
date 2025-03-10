@@ -9,6 +9,9 @@
 - **Teamsmart AI**:
     - **Teamsmart.ai** 代表了基于科学研究的下一代人工智能助手。它被设计为可通过聊天界面和 Chrome 扩展程序进行访问。使用您自己的 AI 助手每周节省 10 多个小时
     - **链接**： [https://www.teamsmart.ai/](https://www.teamsmart.ai/)
+- **Chatbase**: 
+    - **Chatbase** 只需连接您的数据源并为您的数据获取类似 ChatGPT 的聊天机器人。然后将其作为小部件添加到您的网站或通过我们的集成或 API 与其聊天。
+    - **链接**： [https://www.chatbase.co/](https://www.chatbase.com/)
 
 #### 写作助手
 #### 内容营销
