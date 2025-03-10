@@ -126,8 +126,196 @@
 - **ChatGPT-3.5**:
     - ChatGPT是由OpenAI开发的一个人工智能聊天机器人程序。该程序使用基于GPT-3.5架构的大型语言模型并通过强化学习进行训练。
     - **链接**: [https://chat.openai.com](https://chat.openai.com)
-
 #### 写作助手
+
+- **ExplainThis AI**:
+    - ExplainThis  一个智能助手，...
+    - **链接**: [https://explainthis.ai](https://explainthis.ai)
+
+- **Craft**:
+    - 当你的工作需要令人惊叹时，Craft 为您提供了让它变得宏伟的工具使用Craft AI助手获取所需的帮助-最智能的辅助工具就在您的指尖。利用强大的AI技术即时提高您的写作水平，并将您的文档提升至新高度。告别繁琐乏味的编辑，随时获得所需帮助！只需输入文字，观察它们变成惊人之物。
+    - **链接**: [https://www.craft.do](https://www.craft.do)
+
+- **Smodin**:
+    - 使用我们的 AI 支持的研究工具来帮助您的研究，以获得全面而准确的结果。 G 让你开始 我们的 AI 模型为每个学科、生物学、化学、历史等等提供知识渊博的答案！接收有关如何改进任何文本、论点或文章结构的详细反馈。 使用信誉良好的来源  生成任何参考文献并以 MLA 或 APA 格式引用它。只需单击一下即可将它们添加到您的文本中！
+    - **链接**: [https://smodin.io](https://smodin.io)
+
+- **Writefull**:
+    - 在 Writefull，我们喜欢尝试用 AI 来帮助学术写作。
+    - **链接**: [https://x.writefull.com](https://x.writefull.com)
+
+- **有道写作**:
+    - 权威的批改体系 基于中国人英语写作习惯 支持手写拍照批改 支持多场景写作
+    - **链接**: [https://write.youdao.com](https://write.youdao.com)
+
+- **StoryhaAI**:
+    - StoyhaAI是基于独咕科技AIGC引擎的智能AI故事内容创作平台，为创作者和机构提供AI生成服务，包括文本续写、文生图、文章转剧本/游戏等创作服务,StoryhaAI通过对文本、图片等进行智能分析，快速创作，零门槛创作互动故事/游戏,并促进内容转化为数字资产。
+    - **链接**: [https://www.ainavi.top/sites/1137.html](https://www.ainavi.top/sites/1137.html)
+
+- **Cohesive AI**:
+    - 拥有最强大的 AI 编辑器;通过 Cohesive 体验生产力的提升，人类的创造力与 AI 的才华相遇。 轻松无缝地创建、优化、编辑和发布您的作品。
+    - **链接**: [https://cohesive.so](https://cohesive.so)
+
+- **Hashnode AI**:
+    - 随 Hashnode Pro 提供，我们强大的新 AI 功能可帮助您的写作跳出页面。锐化您的想法，轻松制作引人注目的内容，微调帖子的每个元素，并更快地发布
+    - **链接**: [https://hashnode.com/ai](https://hashnode.com/ai)
+
+- **Reflect**:
+    - 与 AI 助手一起做笔记 Reflect 使用 GPT-4 和 OpenAI 的 Whisper 来改进你的写作，
+    - **链接**: [https://reflect.app](https://reflect.app)
+
+- **Jenni**:
+    - 增强您的下一篇研究论文
+    - **链接**: [https://jenni.ai](https://jenni.ai)
+
+- **智搜**:
+    - Giiso写作机器人是由深圳市智搜信息技术有限公司推出的一款内容创作AI辅助工具。
+    - **链接**: [https://www.giiso.com](https://www.giiso.com)
+
+- **火龙果写作**:
+    - 从AI写作辅助，到AI内容生成
+    - **链接**: [https://www.mypitaya.com/zh](https://www.mypitaya.com/zh)
+
+- **Effidit**:
+    - 由腾讯 AI Lab 开发的一个研究性原型系统，探索用 AI 技术提升写作者的写作效率和创作体验
+    - **链接**: [https://effidit.qq.com](https://effidit.qq.com)
+
+- **爱改写**:
+    - 集成海量查词资源，融合人工智能、深度学习、大数据分析等技术，为科研工作者提供全面快捷的学术服务
+    - **链接**: [https://www.aigaixie.com](https://www.aigaixie.com)
+
+- **Wordtune**:
+    - 通过清晰、引人注目和真实的写作准确地说出你的意思。
+    - **链接**: [https://www.wordtune.com](https://www.wordtune.com)
+
+- **GrammarlyGO**:
+    - GrammarlyGO，这是来自 AI 通信辅助领导者的生成 AI 功能套件
+    - **链接**: [https://app.grammarly.com](https://app.grammarly.com)
+
+- **Moonbeam**:
+    - 您的长篇写作 AI 助手
+    - **链接**: [https://www.gomoonbeam.com](https://www.gomoonbeam.com)
+
+- **Cowriter**:
+    - 加速创意写作的 AI 动力源泉
+    - **链接**: [https://cowriter.org](https://cowriter.org)
+
+- **Elephas**:
+    - 世界上第一位跨 Mac、iPhone 和 iPad 工作的 AI 作家
+    - **链接**: [https://elephas.app](https://elephas.app)
+
+- **HyperWrite**:
+    - 您的贴身 AI 写作助手
+    - **链接**: [https://www.hyperwriteai.com](https://www.hyperwriteai.com)
+
+- **Friday AI**:
+    - 智能写作系统 让你轻松生成高质量 原创文章
+    - **链接**: [https://heyfriday.cn](https://heyfriday.cn)
+
+- **Typeface**:
+    - 生成式 AI 应用程序可增强工作中的个性化内容创建
+    - **链接**: [https://www.typeface.ai](https://www.typeface.ai)
+
+- **ProWritingAid**:
+    - 一体化 AI 工具让您的写作大放异彩
+    - **链接**: [https://prowritingaid.com](https://prowritingaid.com)
+
+- **Sudowrite**:
+    - 你一直想要的AI写作伙伴.️
+    - **链接**: [https://www.sudowrite.com](https://www.sudowrite.com)
+
+- **LongShot**:
+    - 在几分钟内从一个想法到一个博客
+    - **链接**: [https://www.longshot.ai](https://www.longshot.ai)
+
+- **Reword**:
+    - 帮助您的团队以合乎道德的方式与 AI 合作，以便您可以为读者撰写出色的文章。
+    - **链接**: [https://reword.co](https://reword.co)
+
+- **TextCortex**:
+    - AI写作助手，生成长篇博客、营销广告等
+    - **链接**: [https://textcortex.com](https://textcortex.com)
+
+- **写作猫**:
+    - 集AI写作、多人协作、文本校对、改写润色、自动配图等功能为一体AI Native内容创作平台
+    - **链接**: [https://xiezuocat.com](https://xiezuocat.com)
+
+- **MagickPen**:
+    - 像魔术师一样在几秒钟内写出任何东西
+    - **链接**: [https://magickpen.com](https://magickpen.com)
+
+- **Tinywow AI Write**:
+    - tinywow旗下免费AI写作工具
+    - **链接**: [https://tinywow.com/tools/write](https://tinywow.com/tools/write)
+
+- **奇妙文**:
+    - 出门问问推出的AI写作助理
+    - **链接**: [https://wen.mobvoi.com](https://wen.mobvoi.com)
+
+- **Spell.tools**:
+    - 省时省力的AI编写器
+    - **链接**: [https://www.ainavi.top/sites/560.html](https://www.ainavi.top/sites/560.html)
+
+- **PepperType**:
+    - peppercontent旗下智能文本编辑器
+    - **链接**: [https://www.peppercontent.io/peppertype-ai](https://www.peppercontent.io/peppertype-ai)
+
+- **Magic Write**:
+    - Canva旗下AI文案生成器
+    - **链接**: [https://www.canva.com/magic-write](https://www.canva.com/magic-write)
+
+- **Bearly**:
+    - AI阅读总结、写作和内容生成助手
+    - **链接**: [https://bearly.ai](https://bearly.ai)
+
+- **Deepl Write**:
+    - DeepL推出的AI驱动的写作助手
+    - **链接**: [https://www.deepl.com/write](https://www.deepl.com/write)
+
+- **Magical AI**:
+    - Magical AI是一款免费的AI写作助手和提高生产力的应用
+    - **链接**: [https://www.getmagical.com](https://www.getmagical.com)
+
+- **彩云小梦**:
+    - 彩云科技推出的智能AI故事写作工具
+    - **链接**: [https://if.caiyunai.com](https://if.caiyunai.com)
+
+- **Quillbot**:
+    - 一款AI英语写作润色工具
+    - **链接**: [https://quillbot.com](https://quillbot.com)
+
+- **火山写作**:
+    - 字节跳动旗下的火山引擎团队推出的类似于Grammarly的AI英语写作助手，让你更加流畅和自信地写作英语文章
+    - **链接**: [https://www.writingo.net](https://www.writingo.net)
+
+- **NovelAI**:
+    - AI小说故事创作工具
+    - **链接**: [https://novelai.net](https://novelai.net)
+
+- **Rytr**:
+    - AI内容生成和写作助手
+    - **链接**: [https://rytr.me](https://rytr.me)
+
+- **Writesonic**:
+    - AI写作，文案，释义工具
+    - **链接**: [https://writesonic.com](https://writesonic.com)
+
+- **Krater.AI**:
+    - 适用于所有人的AI文本和内容生成器
+    - **链接**: [https://www.krater.ai](https://www.krater.ai)
+
+- **Shakespeare**:
+    - 一款人工智能文案软件，能够创建几乎任何类型的文案，在你的个人或职业生活中一定用得上
+    - **链接**: [https://shakespeare.ai](https://shakespeare.ai)
+
+- **Copy.ai**:
+    - 一个人工智能驱动的文案写手，可以为您的企业生成高质量的文案。
+    - **链接**: [https://www.copy.ai](https://www.copy.ai)
+
+- **Jasper**:
+    - 最好的AI作家和AI艺术生成器，拥有超过3,000个五星评论的团队。快速创建博客文章、营销文案和人工智能生成的图像。
+    - **链接**: [https://www.jasper.ai](https://www.jasper.ai)
+
 #### 内容营销
 #### 文档识别
 
