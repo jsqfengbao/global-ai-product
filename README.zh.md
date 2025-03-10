@@ -1254,6 +1254,31 @@
     - 腾讯智影是一个集素材搜集、视频剪辑、后期包装、渲染导出和发布于一体的在线剪辑平台
     - **链接**: [https://zenvideo.qq.com](https://zenvideo.qq.com)
 
+#### 视频分析
+
+- **Freesubtitles**:
+    - freesubtitles 免费字幕，通过自动免费翻译将音频和视频免费转录为文本
+    - **链接**: [https://freesubtitles.ai](https://freesubtitles.ai)
+
+- **Steno**:
+    - Steno 是一款人工智能驱动的工具，可帮助专业人士收集有价值的信息、跟踪品牌、研究竞争对手并了解公众舆论；从音频和视频内容中提取见解
+    - **链接**: [https://steno.ai](https://steno.ai)
+
+- **Munch**:
+    - Munch 使用最先进的生成 AI 和营销分析，从您的长视频中提取最吸引人、最流行和最有影响力的片段
+    - **链接**: [https://www.getmunch.com](https://www.getmunch.com)
+
+- **GhostCut**:
+    - GhostCut可以高效完成视频翻译、硬字幕翻译、去字幕等任务，协助创作者、商家、MCN进行本地化视频营销
+    - **链接**: [https://jollytoday.com](https://jollytoday.com)
+
+- **Chat Youtube**:
+    - 允许您与任何YouTube视频交谈-总结它，问它问题
+    - **链接**: [https://chatyoutube.com](https://chatyoutube.com)
+
+- **BibiGPT**:
+    - 一键总结本地文件、YouTube、哔哩哔哩、会议、播客等音视频内容
+    - **链接**: [https://b.jimmylv.cn/?lang=zh](https://b.jimmylv.cn/?lang=zh)
 
 
 ### AI聊天
