@@ -999,6 +999,68 @@
     - 获取为男士，女士和情侣量身定制的50 +风格的完整照片集
     - **链接**: [https://aiphotos.ai](https://aiphotos.ai)
 
+#### 虚拟形象
+
+- **DreamPic.AI**:
+    - DreamPic.AI 是一个革命性的平台，它使用尖端的人工智能技术来生成各种风格的令人惊叹的个性化图像。无论您想将自己视为名人、艺术品，甚至动物，我们都能满足您的需求。上传您的照片，让人工智能来完成这项工作。为您和您的朋友生成独特的头像、个人资料图片和社交媒体图像。
+    - **链接**: [https://dreampic.ai](https://dreampic.ai)
+
+- **NeuralStudio**:
+    - NeuralStudio使用文本生成您自己的任何图像或头像！借助 @stablediffusion 的强大功能，使用简单的文本生成您自己的头像、艺术作品、徽标和逼真的图像
+    - **链接**: [https://neural.cam/studio](https://neural.cam/studio)
+
+- **Avatarify**:
+    - Avatarify发现你的数字化身, 通过个性化头像提升您的在线形象
+    - **链接**: []()
+
+- **Reface**:
+    - Reface换脸应用程序和人工智能头像生成器;赋能内容创作; 我们将复杂的人工智能技术转化为易于使用的产品，供全球数百万人使用
+    - **链接**: [https://reface.ai](https://reface.ai)
+
+- **Vana Portrait**:
+    - Vana Portrait 是一款人工智能驱动的工具，允许用户根据自己的照片创建个性化肖像。 它使用机器学习算法来创建独特且真实的结果。
+    - **链接**: [https://app.vana.com](https://app.vana.com)
+
+- **AI Time Machine**:
+    - 上传自己的照片，创建令人兴奋的 AI 头像。与您的朋友分享它们并将它们用作您的个人资料照片！
+    - **链接**: [https://www.myheritage.com/ai-time-machine](https://www.myheritage.com/ai-time-machine)
+
+- **PictoDream**:
+    - Pictodream 是一款人工智能驱动的工具，允许用户根据自己的照片创建自定义表情符号和贴纸。 它使用机器学习算法来创建独特且个性化的设计。
+    - **链接**: [https://pictodream.com](https://pictodream.com)
+
+- **Ready Player Me**:
+    - Ready Player Me 是一款人工智能驱动的头像创建器，允许用户根据自己的照片创建个性化的 3D 头像。 它为面部特征、服装和配饰提供各种定制选项。
+    - **链接**: [https://readyplayer.me](https://readyplayer.me)
+
+- **CG Face**:
+    - cgfaces系列提供了广泛的不存在的人的数字图像，适用于各种情况，特别是当传统照片不是一种选择时。CGFes是一个致力于提供免费的高质量AI生成的人物图像的平台。这些图像可供下载1600万像素的高分辨率。该平台允许人们做出贡献。它还将根据需求自行生成。
+    - **链接**: [https://cgfaces.com/en](https://cgfaces.com/en)
+
+- **Profile Picture**:
+    - 使用 AI 创建完美的头像,使用人工智能来生成您的 pfps，看起来很完美并且捕捉到了您的身份。
+    - **链接**: [https://www.profilepicture.ai](https://www.profilepicture.ai)
+
+- **Crypko**:
+    - 动漫角色生成平台 Crypko; Crypko具有编辑功能，可以让用户编辑生成角色的头发、脸、衣服、风格等。
+    - **链接**: [https://crypko.ai](https://crypko.ai)
+
+- **ToonMe**:
+    - 照片卡通制作工具
+    - **链接**: [https://toonme.com](https://toonme.com)
+
+- **PhotoBooth**:
+    - 使用 AI 创建令人惊叹的个人资料图片
+    - **链接**: [https://magicstudio.com/photobooth](https://magicstudio.com/photobooth)
+
+- **Generated Photos**:
+    - 使用完全由 AI 生成的照片增强您的创意作品
+    - **链接**: [https://generated.photos](https://generated.photos)
+
+- **WaifuLabs**:
+    - 最先进的 AI 可以绘制自定义动漫肖像，只为您而生
+    - **链接**: [https://waifulabs.com](https://waifulabs.com)
+
 
 ### AI视频
 - **Synthesia**: 使用数字形象创建AI驱动的视频
