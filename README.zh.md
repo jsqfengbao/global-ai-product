@@ -317,6 +317,107 @@
     - **链接**: [https://www.jasper.ai](https://www.jasper.ai)
 
 #### 内容营销
+
+- **Editby**:
+    - Editby从多个来源创建深入的研究内容并优化 SEO。它可以在您的领域创建参考内容。不要遗漏任何重要信息，使用相关来源并优化
+    - **链接**: [https://www.editby.ai](https://www.editby.ai)
+
+- **Writecream**:
+    - 在几秒钟内创建营销内容和销售电子邮件，成本极低。免费试用。无需信用卡。
+    - **链接**: [https://www.writecream.com](https://www.writecream.com)
+
+- **Adwrite**:
+    - 为博客、文章、Facebook 广告、Google Ads、Quora 答案和销售电子邮件编写 SEO 优化营销文案，以增加点击次数、转化次数和销售额。
+    - **链接**: [https://aigcdeep.com](https://aigcdeep.com)
+
+- **MarkCopy**:
+    - 创建您所有的 SEO 优化内容 - 使用 Mark 快 10 倍;用于定制的生成式 AI 企业内容创作
+    - **链接**: [https://www.markcopy.ai](https://www.markcopy.ai)
+
+- **Frase**:
+    - 创建在 Google 上排名的内容的最快和最简单的方法;从关键词到最终草案可能是一项艰巨的任务。 Frase 使它变得快速和无痛
+    - **链接**: [https://www.frase.io](https://www.frase.io)
+
+- **Content at Scale**:
+    - 使用我们为满足 Google 的 EEAT 要求而构建的高质量 SEO 内容编写器，将内容制作时间和成本减少 10 倍。在几分钟内根据关键字、YouTube URL、播客、现有博客或自定义音频文件生成有研究支持的长篇帖子
+    - **链接**: [https://contentatscale.ai](https://contentatscale.ai)
+
+- **Closerscopy**:
+    - 通过 SEO 优化的博客和不可抗拒的营销文案促进您的销售  利用世界上最强大的文案的秘密……让您的文案机器人将它们变为现实
+    - **链接**: [https://www.closerscopy.com](https://www.closerscopy.com)
+
+- **Jounce**:
+    - Jounce 是一种易于使用的人工智能文案解决方案，只需几个简单的步骤即可帮助您创建专业、有效的内容;由 AI 提供支持。过去需要营销人员数天和数周才能完成的文案和艺术品现在只需很短的时间即可完成
+    - **链接**: [https://www.jounce.ai](https://www.jounce.ai)
+
+- **Copysmith**:
+    - Copysmith 的 AI 内容生成器支持营销和电子商务团队制作精彩内容
+    - **链接**: [https://copysmith.ai](https://copysmith.ai)
+
+- **AISEO**:
+    - 使用 AISEO.ai 改变您的写作过程，AISEO.ai 是独一无二的 AI 写作助手，只需点击几下即可提供无法察觉的类人内容
+    - **链接**: [https://aiseo.ai/index.html](https://aiseo.ai/index.html)
+
+- **ContentBot**:
+    - 内容自动化、博客内容、释义、广告文案等等
+    - **链接**: [https://contentbot.ai](https://contentbot.ai)
+
+- **ClosersCopy**:
+    - 通过SEO优化的博客和不可抗拒的营销文案促进您的销售
+    - **链接**: [https://www.closerscopy.com](https://www.closerscopy.com)
+
+- **Anyword**:
+    - 为每个实际转化的渠道和受众创建高性能文案
+    - **链接**: [https://anyword.com](https://anyword.com)
+
+- **Copydone**:
+    - 多类型营销内容生成
+    - **链接**: [https://copyai.cn](https://copyai.cn)
+
+- **WordFury**:
+    - WordFury 是一款由 AI 驱动的文档生成应用程序
+    - **链接**: [https://vgoapp.com](https://vgoapp.com)
+
+- **创作王**:
+    - 多类型营销内容生成
+    - **链接**: [https://aiapp.cc](https://aiapp.cc)
+
+- **悉语·智能文案**:
+    - 阿里旗下一键生成营销文案 电商场景悉数覆盖
+    - **链接**: [https://chuangyi.taobao.com/pages/aiCopy](https://chuangyi.taobao.com/pages/aiCopy)
+
+- **Texta**:
+    - 为您的博客获取高质量的 SEO 优化和引人入胜的内容的最简单方法。
+    - **链接**: [https://texta.ai](https://texta.ai)
+
+- **Hypotenuse**:
+    - 提供几个关键词，我们会利用我们世界一流的人工智能和丰富的知识，立即把它们变成完整的文章和营销内容。
+    - **链接**: [https://zh.hypotenuse.ai](https://zh.hypotenuse.ai)
+
+- **Writer**:
+    - 世界级公司信任 Writer 在每个团队中释放生成 AI 的力量
+    - **链接**: [https://writer.com](https://writer.com)
+
+- **Neuraltext**:
+    - 自动化您的内容运营
+    - **链接**: [https://www.neuraltext.com](https://www.neuraltext.com)
+
+- **MARK**:
+    - 创建您所有的 SEO 优化内容 - 使用 Mark 快 10 倍。
+    - **链接**: [https://www.markcopy.ai](https://www.markcopy.ai)
+
+- **INK**:
+    - 行业领先的 SEO 优化和语义智能，以前所未有的速度大规模创建内容
+    - **链接**: [https://inkforall.com](https://inkforall.com)
+
+- **Yaara**:
+    - 立即生成一流的文案广告，电子邮件，网站，列表，博客，故事和更多
+    - **链接**: [https://www.yaara.ai](https://www.yaara.ai)
+
+- **Easy-Peasy**:
+    - 让你的文案工作更快，更容易的人工智能工具。你也可以使用我们的AI头像生成器来生成avators。
+    - **链接**: [https://easy-peasy.ai](https://easy-peasy.ai)
+
 #### 文档识别
 
 ### AI图像
