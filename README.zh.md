@@ -1281,9 +1281,105 @@
     - **链接**: [https://b.jimmylv.cn/?lang=zh](https://b.jimmylv.cn/?lang=zh)
 
 
-### AI聊天
-- **ChatGPT**: 适用于各种应用的对话式AI
-- **Claude**: 专注于提供帮助和无害交互的AI助手
+### 音频处理
+#### 语音合成
+
+- **Dubverse**:
+    - Dubverse 配音视频最简单（且神奇）的方法,只需单击按钮即可将您的内容变成多语言并覆盖更多人。
+    - **链接**: [https://dubverse.ai](https://dubverse.ai)
+
+- **Papercup**:
+    - 人工智能配音；提交您现有的视频内容以进行翻译和画外音。发现使用 AI 配音以更快、更实惠的方式将现有视频内容推向全球
+    - **链接**: [https://www.papercup.com](https://www.papercup.com)
+
+- **MockingBird**:
+    - AI拟声: 5秒内克隆您的声音并生成任意语音内容
+    - **链接**: [https://github.com/babysor/MockingBird](https://github.com/babysor/MockingBird)
+
+- **Koolio.ai**:
+    - koolio.ai 可让您在几分钟内将概念转化为完整的播客。我们帮助您轻松制作优质内容
+    - **链接**: [https://www.koolio.ai](https://www.koolio.ai)
+
+- **Voicemaker**:
+    - 一款文本转语音生成器
+    - **链接**: [https://voicemaker.in](https://voicemaker.in)
+
+- **WellSaid**:
+    - 实时从文本创建画外音
+    - **链接**: [https://wellsaidlabs.com](https://wellsaidlabs.com)
+
+- **Listnr**:
+    - 创建逼真的文本到语音 (TTS) 音频。轻松将文本转换为逼真的语音并以 MP3 或 WAV 格式下载
+    - **链接**: [https://www.listnr.tech](https://www.listnr.tech)
+
+- **LOVO**:
+    - LOVO 是数以千计的创作者首选的 AI 语音生成器和文本转语音平台
+    - **链接**: [https://lovo.ai](https://lovo.ai)
+
+- **Typecast**:
+    - 使用逼真的 AI 声音和化身为您的视频内容提供动力
+    - **链接**: [https://typecast.ai](https://typecast.ai)
+
+- **NaturalReader**:
+    - 用于个人、商业和教育用途的排名第一的文本转语音解决方案
+    - **链接**: [https://www.naturalreaders.com](https://www.naturalreaders.com)
+
+- **Speechify**:
+    - 排名第一的文字转语音朗读软件;用最先进的文本转语音技术轻松阅读任何文档、文章、书籍、PDF、电子邮件。
+    - **链接**: [https://speechify.com](https://speechify.com)
+
+- **VEED 人工智能语音发生器**:
+    - 将文本转换为语音的人工智能软件
+    - **链接**: [https://www.veed.io/tools/text-to-speech-video/ai-voice-generator](https://www.veed.io/tools/text-to-speech-video/ai-voice-generator)
+
+- **Eleven Labs**:
+    - 有史以来最逼真、最通用的人工智能语音软件。Eleven为寻求终极讲故事工具的创作者和出版商带来了最引人注目、最丰富、最逼真的声音
+    - **链接**: [https://beta.elevenlabs.io](https://beta.elevenlabs.io)
+
+- **Play.ht**:
+    - 人工智能驱动的文本到语音发生器;在线AI语音生成器和最佳合成语音生成逼真的文本到语音（TTS）音频。立即将文本转换为自然的语音，并作为MP3和WAV音频文件下载。
+    - **链接**: [https://play.ht](https://play.ht)
+
+- **Clipchamp文字转语音生成器**:
+    - 您可以使用各种语言和口音的语音为您的视频创建免费的画外音
+    - **链接**: [https://clipchamp.com/zh-hans/features/ai-voice-over-generator](https://clipchamp.com/zh-hans/features/ai-voice-over-generator)
+
+- **FakeYou**:
+    - 使用FakeYou的深度伪造技术生成您最喜欢的角色的音频或视频，说出您想要的任何内容
+    - **链接**: [https://fakeyou.com](https://fakeyou.com)
+
+- **Uberduck**:
+    - 使用AI Vocals制作音乐   用5,000+富有表现力的声音制作AI人声和画外音
+    - **链接**: [https://uberduck.ai](https://uberduck.ai)
+
+- **讯飞智作**:
+    - 基于全球领先的TTS能力打造的AI音频制作工具，输入文本、选择发音人即可一键生成专业音频;在虚拟“AI演播室”中输入文本或录音，一键完成音、视频作品的输出
+    - **链接**: [https://peiyin.xunfei.cn](https://peiyin.xunfei.cn)
+
+- **Ondoku**:
+    - 输入文本，将以您喜好的语音进行朗读。 不仅可以直接收听朗读的文本，还可以将其下载为音频文件
+    - **链接**: [https://ondoku3.com/zh-hans](https://ondoku3.com/zh-hans)
+
+- **PLAUD**:
+    - PLAUD结合OpenAI技术，实现多语言高效精准的文本转录服务，结合ChatGPT的最新功能，大大提升了自然语音转化为文本的过程，从而提高日常工作效率。
+    - **链接**: [https://plaud.ai](https://plaud.ai)
+
+- **Murf**:
+    - 在几分钟内完成录音棚质量的配音。使用Murf逼真的AI语音进行播客、视频和所有专业演示
+    - **链接**: [https://murf.ai](https://murf.ai)
+
+- **Resemble**:
+    - Resemble的AI语音生成器让您在几秒钟内创建 逼真的人形画外音。
+    - **链接**: [https://www.resemble.ai](https://www.resemble.ai)
+
+- **Synthesys**:
+    - 领先的画外音和视频制作平台；只需点击几下，即可制作您的下一个专业AI配音或AI视频。
+    - **链接**: [https://synthesys.io](https://synthesys.io)
+
+- **Rask AI**:
+    - 视频本地化的一站式服务：（60种语言！）Rask AI目前支持60多种语言的视频输出，包括德语、法语、西班牙语、中文、英语、土耳其语等，而不考虑源语言。我们相信，我们的技术能够为大多数语言提供可接受的翻译水平，而且我们通过语音克隆功能提供了类似人类的体验，目前仅在英语中可用。
+    - **链接**: [https://zh.rask.ai](https://zh.rask.ai)
+
 
 ### AI代码
 - **GitHub Copilot**: 用于代码补全的AI结对程序员
