@@ -465,8 +465,187 @@
     - **链接**: [https://chatdoc.com](https://chatdoc.com)
 
 ### AI图像
-- **MidJourney**: 用于创建精美视觉效果的AI艺术生成器
-- **DALL·E 2**: 根据文本描述创建逼真图像
+#### 绘画创作
+
+- **GigaGAN**:
+    - GigaGAN：用于文本到图像合成的大规模 GAN;扩展 GAN 以进行文本到图像的合成
+    - **链接**: [https://mingukkang.github.io/GigaGAN](https://mingukkang.github.io/GigaGAN)
+
+- **AI2image**:
+    - AI2image您可以为您的网站生成图像，博客或社交媒体上的简单英文描述。 尝试不同的库（颜色、背景、艺术、角度和位置） 可以应用于您的图像。
+    - **链接**: [https://www.ai2image.com](https://www.ai2image.com)
+
+- **Eye for AI**:
+    - 轻松的文本到图像工具和模板;在一分钟内从文本创建图像 ; ✅ 可视化“提示生成器”，可轻松制作复杂的提示 ✅ 将提示另存为强大的无代码工作流程的模板
+    - **链接**: [https://eyeforai.xyz](https://eyeforai.xyz)
+
+- **NVIDIA Canvas**:
+    - 使用 AI 将简单的笔触变成逼真的风景图。快速创建背景或加速探索概念，让您可以将更多时间用在可视化创意上。
+    - **链接**: [https://www.nvidia.cn/studio/canvas](https://www.nvidia.cn/studio/canvas)
+
+- **画宇宙**:
+    - 画宇宙是由「Nolibox计算美学」推出的人工智能AI作画网站，该平台集成全球新兴的AIGC技术，赋予用户随心所欲、自然流畅、高能硬核的A创作力量，致力于——让每个人都能享受无限的AIG...
+    - **链接**: [https://creator.nolibox.com](https://creator.nolibox.com)
+
+- **Adwrite AI 绘画**:
+    - Adwrite AI 绘画 Midjourney AI模型，创造精美作品  任何人都能轻松生成独一无二的作品  支持中文描述，上手轻松无门槛  海量词汇组合助力艺术创作
+    - **链接**: [https://www.ainavi.top/sites/1896.html](https://www.ainavi.top/sites/1896.html)
+
+- **Phygital+**:
+    - Phygital+ 是一个面向艺术、设计、技术和 Web3 初创公司和创作者的 AI 工作区。无代码，无硬件，20+神经网络，无限创意。
+    - **链接**: [https://phygital.plus](https://phygital.plus)
+
+- **PixAI**:
+    - PixAI 是一个一体化的 AI 艺术平台，可以生成和分享您自己的动漫角色、逼真的肖像、壁纸和资产
+    - **链接**: [https://pixai.art](https://pixai.art)
+
+- **视觉族**:
+    - 通过文本到图像扩散模型，可以根据文本提示输入快速生成逼真的图像，唯一的限制就是你的想象力，让任何人都可以在几秒钟内创造出令人惊叹的艺术作品
+    - **链接**: [https://www.shijuezu.com](https://www.shijuezu.com)
+
+- **Ministers.AI**:
+    - 可以免费使用GPT、Stable Diffusion、Midjourney等绘图工具，以及模型训练
+    - **链接**: [https://mst.xyz/home](https://mst.xyz/home)
+
+- **Ceeya**:
+    - 使用 Ceeya AI 卡片建立自己的品牌页面
+    - **链接**: [https://home.ceeya.io](https://home.ceeya.io)
+
+- **IMGCREATOR**:
+    - 文本到图像、图像到图像和聊天GPT 支持的 AI 设计师
+    - **链接**: [https://imgcreator.zmo.ai](https://imgcreator.zmo.ai)
+
+- **GRAVITI Diffus**:
+    - 在线网页版的SD-WebUI(StableDiffusion WebUI)，直接打开网页即可使用，无需部署，无需代码编程能力，也无须强大的电脑，更无需GPU显卡，目前已经集成了Civitai、Chilloutmix、Deliberate模型和几十个热门模型，用户可以直接选择AI绘画模型进行绘画，或者自定义上传，使用需要注册，开箱即用
+    - **链接**: [https://www.diffus.graviti.com](https://www.diffus.graviti.com)
+
+- **Supermeme**:
+    - 使用 AI Meme Generator 将文本变成模因
+    - **链接**: [https://www.supermeme.ai](https://www.supermeme.ai)
+
+- **DeviantArt DreamUp**:
+    - DeviantArt旗下AI工具，让您在知道创作者及其作品受到公平对待的情况下创作 AI 艺术。用人工智能的力量创造任何你能想象到的图像！
+    - **链接**: [https://www.dreamup.com](https://www.dreamup.com)
+
+- **Shutterstock AI**:
+    - AI 图片生成工具：即时创作精彩的视觉内容
+    - **链接**: [https://www.shutterstock.com/zh/ai-image-generator](https://www.shutterstock.com/zh/ai-image-generator)
+
+- **STOCKIMG.AI**:
+    - 一款生成AI标志，AI书籍封面，AI海报的创作平台
+    - **链接**: [https://stockimg.ai](https://stockimg.ai)
+
+- **illostrationAI**:
+    - 通过 3 个简单的步骤生成您的插图
+    - **链接**: [https://www.illostration.com](https://www.illostration.com)
+
+- **Photosonic**:
+    - 让 Writesonic 的 AI 艺术生成器成为您的画笔,用AI Art Generator 把你的想象力带到屏幕上
+    - **链接**: [https://writesonic.com/photosonic-ai-art-generator](https://writesonic.com/photosonic-ai-art-generator)
+
+- **Astria**:
+    - 量身定制的人工智能
+    - **链接**: [https://www.astria.ai](https://www.astria.ai)
+
+- **Artiphoria**:
+    - 一键创建独特的 AI 生成图像
+    - **链接**: [https://www.artiphoria.ai](https://www.artiphoria.ai)
+
+- **Facet**:
+    - Facet 的人工智能图像工具可帮助艺术家做他们最擅长的事情：创作
+    - **链接**: [https://facet.ai](https://facet.ai)
+
+- **Deep Dream Generator**:
+    - 个结合 AI 技术和艺术的在线平台，让您的想象力变为现实
+    - **链接**: [https://deepdreamgenerator.com](https://deepdreamgenerator.com)
+
+- **getimg.ai**:
+    - getimg.ai 是一套神奇的 AI 工具。大规模生成原始图像、修改照片、将图片扩展到原始边界之外，或创建自定义 AI 模型
+    - **链接**: [https://getimg.ai](https://getimg.ai)
+
+- **starryai**:
+    - 只需描述您想看到的内容即可生成艺术 ?，我们的人工智能会将您的文字转化为艺术
+    - **链接**: [https://starryai.com](https://starryai.com)
+
+- **Artbreeder**:
+    - 用形状和图像制作一个简单的拼贴画，用提示描述它，然后观看 Artbreeder 将其变为现实
+    - **链接**: [https://www.artbreeder.com](https://www.artbreeder.com)
+
+- **Craiyon**:
+    - 来自文本的免费在线 AI 图像生成器
+    - **链接**: [https://www.craiyon.com](https://www.craiyon.com)
+
+- **Picsart**:
+    - 在短短几秒钟内将文字转换为图像。键入详细说明，并观察您的愿景转变为充满活力的 AI 生成的艺术。
+    - **链接**: [https://picsart.com](https://picsart.com)
+
+- **FlagStudio**:
+    - AI 文图生成艺术项目 一句话就是一幅画
+    - **链接**: [https://flagopen.baai.ac.cn/#/home/project?pro=FlagStudio](https://flagopen.baai.ac.cn/#/home/project?pro=FlagStudio)
+
+- **prodia**:
+    - 使用 AI 创作艺术
+    - **链接**: [https://app.prodia.com](https://app.prodia.com)
+
+- **Canva AI**:
+    - Canva旗下免费在线AI图像生成器
+    - **链接**: [https://www.canva.com/ai-image-generator](https://www.canva.com/ai-image-generator)
+
+- **Scribble Diffusion**:
+    - 使用 AI 将您的草图转换为精致的图像
+    - **链接**: [https://scribblediffusion.com](https://scribblediffusion.com)
+
+- **NightCafe**:
+    - 为您的艺术使用 AI 图像生成器
+    - **链接**: [https://creator.nightcafe.studio](https://creator.nightcafe.studio)
+
+- **BlueWillow**:
+    - 创建令人惊叹的 AI 生成图像
+    - **链接**: [https://www.bluewillow.ai](https://www.bluewillow.ai)
+
+- **6PEN ART**:
+    - 6pen 基于AI技术，  从文本描述生成绘画艺术作品
+    - **链接**: [https://6pen.art](https://6pen.art)
+
+- **Adobe Firefly**:
+    - 使用 Firefly 进行实验、想象和制作无限范围的创作，Firefly 是一系列即将用于 Adobe 产品的创意生成 AI 模型。
+    - **链接**: [https://firefly.adobe.com](https://firefly.adobe.com)
+
+- **万兴爱画**:
+    - 输入想要的画面内容，选择艺术风格，AI在一分钟内将您的想法变成一副人工智能绘画。
+    - **链接**: [https://aigc.wondershare.cn](https://aigc.wondershare.cn)
+
+- **VEGA AI**:
+    - VEGA让想象成为具象，通过AI创作专属于你的艺术创作
+    - **链接**: [https://www.vegaai.net](https://www.vegaai.net)
+
+- **dreamlike.art**:
+    - 创造令人惊叹的原创艺术，借助 AI 的强大功能，在几秒钟内完成
+    - **链接**: [https://dreamlike.art](https://dreamlike.art)
+
+- **PlaygroundAI**:
+    - 从你的想象创建任何映像
+    - **链接**: [https://playgroundai.com](https://playgroundai.com)
+
+- **Bing Image Creator**:
+    - 微软必应旗下AI人工智能图片生成工具
+    - **链接**: [https://www.bing.com/create](https://www.bing.com/create)
+
+- **NijiJourney**:
+    - MJ出品的面向二次元风格AI绘画工具，内容细致拿捏专业到位
+    - **链接**: [https://nijijourney.com](https://nijijourney.com)
+
+- **文心一格**:
+    - 百度出品的AI绘画工具
+    - **链接**: [https://yige.baidu.com](https://yige.baidu.com)
+
+- **Stable Diffusion**:
+    - Stability AI出品最强开源AI绘画工具
+    - **链接**: [https://stability.ai](https://stability.ai)
+
+- **Midjourney**:
+    - 目前最强的AI绘画工具
+    - **链接**: [https://www.midjourney.com](https://www.midjourney.com)
 
 ### AI视频
 - **Synthesia**: 使用数字形象创建AI驱动的视频
