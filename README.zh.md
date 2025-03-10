@@ -949,6 +949,56 @@
     - 人工智能驱动自动着色
     - **链接**: [https://petalica.com](https://petalica.com)
 
+#### 图像转换
+
+- **Green Screen AI**:
+    - Green Screen AI 是一种有趣且简单的方法，可将您的照片转化为生成 AI 艺术。
+    - **链接**: [https://greenscreenai.com](https://greenscreenai.com)
+
+- **ANIMATED DRAWINGS**:
+    - 由 META AI RESEARCH 呈现，可以通过传入2D人物图片，生成固定动作的动画
+    - **链接**: [https://sketch.metademolab.com](https://sketch.metademolab.com)
+
+- **LeiaPix Converter**:
+    - LeiaPix Converter 可让您将任何喜爱的图像转换为令人惊叹的深度动画
+    - **链接**: [https://convert.leiapix.com](https://convert.leiapix.com)
+
+- **Skybox AI**:
+    - 一键打造360°体验
+    - **链接**: [https://skybox.blockadelabs.com](https://skybox.blockadelabs.com)
+
+- **Flair**:
+    - 品牌内容的人工智能设计工具
+    - **链接**: [https://flair.ai](https://flair.ai)
+
+- **Stylized**:
+    - 在任何光线、任何背景下拍摄专业的产品照
+    - **链接**: [https://www.stylized.ai](https://www.stylized.ai)
+
+- **Designify**:
+    - 通过自动删除背景、增强颜色、调整智能阴影等，选择任何图像来创建 AI 支持的设计。立即保存、下载或共享您的设计。
+    - **链接**: [https://www.designify.com](https://www.designify.com)
+
+- **Pebblely**:
+    - 只需单击一个按钮，即可为任何产品创建适合 Instagram 的照片
+    - **链接**: [https://pebblely.com](https://pebblely.com)
+
+- **Booth AI**:
+    - 使用 AI 创建专业品质的产品摄影;只需指定您想要的照片并上传一些示例产品图片，即可快速生成高质量的生活方式照片
+    - **链接**: [https://www.booth.ai](https://www.booth.ai)
+
+- **图像转绘**:
+    - 转绘产品是方便设计师寻找素材/灵感的图片转绘工具
+    - **链接**: [https://transpic.cn](https://transpic.cn)
+
+- **PromeAI**:
+    - PromeAI 拥有强大的 AI 驱动设计助手和丰富的可控 AIGC (C-AIGC) 模型样式库，使您能够轻松创建令人惊叹的图形、视频和动画
+    - **链接**: [https://www.promeai.com](https://www.promeai.com)
+
+- **AI Photos**:
+    - 获取为男士，女士和情侣量身定制的50 +风格的完整照片集
+    - **链接**: [https://aiphotos.ai](https://aiphotos.ai)
+
 
 ### AI视频
 - **Synthesia**: 使用数字形象创建AI驱动的视频
