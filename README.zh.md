@@ -420,6 +420,50 @@
 
 #### 文档识别
 
+- **HUMATA.AI**:
+    - 向 AI 询问有关您的文件的任何信息
+    - **链接**: [https://www.humata.ai](https://www.humata.ai)
+
+- **ROSSUM**:
+    - 智能文档处理自动化端到端的业务工作流程
+    - **链接**: [https://rossum.ai](https://rossum.ai)
+
+- **Super.AI**:
+    - 智能文档处理 (IDP) 实现端到端业务流程自动化并保证结果
+    - **链接**: [https://super.ai](https://super.ai)
+
+- **Corpora**:
+    - 利用 AI 的力量从文档中找到问题的答案
+    - **链接**: [https://www.askcorpora.com](https://www.askcorpora.com)
+
+- **IngestAI**:
+    - 在Slack/Discord上建立ChatGPT机器人，在你的文档上回答问题
+    - **链接**: [https://ingestai.io](https://ingestai.io)
+
+- **SCISPACE**:
+    - 在几分钟内完成数小时的阅读和理解
+    - **链接**: [https://typeset.io](https://typeset.io)
+
+- **Explainpaper**:
+    - 阅读学术论文的更好方法，你的学术论文阅读助手
+    - **链接**: [https://www.explainpaper.com](https://www.explainpaper.com)
+
+- **PDFlux**:
+    - 全面支持PDF和扫描件等格式，提供全景文档结构识别，包括高精度OCR、表格结构识别等
+    - **链接**: [https://pdflux.com](https://pdflux.com)
+
+- **PandaGPT**:
+    - PandaGPT是读取文件的最简单方法，由chatGPT提供支持。
+    - **链接**: [https://www.pandagpt.io](https://www.pandagpt.io)
+
+- **ChatPDF**:
+    - Chat with any PDF，可根据PDF的内容回答您的问题
+    - **链接**: [https://www.chatpdf.com](https://www.chatpdf.com)
+
+- **ChatDOC**:
+    - 一款基于 ChatGPT 的文件阅读助手，可以 快速从 PDF 中提取、定位和汇总信息。 智能文档阅读助手。
+    - **链接**: [https://chatdoc.com](https://chatdoc.com)
+
 ### AI图像
 - **MidJourney**: 用于创建精美视觉效果的AI艺术生成器
 - **DALL·E 2**: 根据文本描述创建逼真图像
