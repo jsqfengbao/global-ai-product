@@ -1062,9 +1062,101 @@
     - **链接**: [https://waifulabs.com](https://waifulabs.com)
 
 
-### AI视频
-- **Synthesia**: 使用数字形象创建AI驱动的视频
-- **Pictory**: 从文本内容自动生成视频
+### 视频处理
+#### 视频生成
+
+- **Waymark**:
+    - Waymark 的人工智能视频创作器可以快速、轻松地制作引人注目的广告，帮助您缩短销售周期并达成更多交易。
+    - **链接**: [https://waymark.com](https://waymark.com)
+
+- **LiveReacting**:
+    - LiveReacting 是一款用于在社交网络上进行交互式直播的应用程序。通过我们的人工智能主持人提升您的现场表演。节省时间和金钱，同时为观众提供互动且引人入胜的体验
+    - **链接**: [https://www.livereacting.com/ai-host-for-live-stream](https://www.livereacting.com/ai-host-for-live-stream)
+
+- **Xpression Camera**:
+    - 实时生成人工智能应用程序用于视频聊天和直播；xpression相机是一款屡获殊荣的虚拟相机应用程序，它允许用户通过一张照片立即变成任何有脸的任何人或任何东西，而无需任何处理时间。xpression 摄像头使用户能够在 Zoom 等应用程序上聊天、在 Twitch 上进行直播或创建 YouTube 视频时实时重新定义他们的屏幕角色。
+    - **链接**: [https://xpressioncamera.com](https://xpressioncamera.com)
+
+- **re,memory**:
+    - rememory 是“基于 AI 技术的虚拟人类服务，通过模仿客户的已故家庭成员的方方面面——从他们的体格到他们的声音——来重现他们。它提供的是“为那些希望通过虚拟人让他们所爱的人的人生故事永垂不朽的人提供的服务”。
+    - **链接**: [https://rememory.deepbrain.io](https://rememory.deepbrain.io)
+
+- **Opus Clip**:
+    - Opus Clip 是一种生成式 AI 视频工具，只需单击一下即可将长视频重新调整为短片。
+    - **链接**: [https://www.opus.pro](https://www.opus.pro)
+
+- **Hour One**:
+    - 定制的虚拟人主播，以提供您的视频内容;轻松地将任何文本转换为专业演示者主导的视频在几分钟内以任何语言
+    - **链接**: [https://hourone.ai](https://hourone.ai)
+
+- **Neurodub**:
+    - 端到端的视频本地化和经济实惠的画外音，让您的业务走向全球。人工智能驱动的翻译与人性化的联系。
+    - **链接**: [https://www.ainavi.top/sites/831.html](https://www.ainavi.top/sites/831.html)
+
+- **Rephrase Studio**:
+    - 是一个文本到视频生成平台，消除了视频制作的复杂性，使您能够在几分钟内创建具有数字化身的专业视频
+    - **链接**: [https://www.rephrase.ai](https://www.rephrase.ai)
+
+- **Synthesys**:
+    - 领先的画外音和视频制作平台；只需点击几下，即可制作您的下一个专业AI配音或AI视频。
+    - **链接**: [https://synthesys.io](https://synthesys.io)
+
+- **DeepBrain**:
+    - 快速轻松地生成逼真的AI头像视频。只需准备好您的脚本，并使用我们的文本到语音功能，即可在5分钟或更短的时间内创建您的第一个AI视频。
+    - **链接**: [https://www.deepbrain.io](https://www.deepbrain.io)
+
+- **Colossyan**:
+    - 将专业视频编辑留给Colossyan Creator，无需任何培训或高级技能。只需输入您的文本，并在几分钟内以70多种语言准备好视频。
+    - **链接**: [https://www.colossyan.com](https://www.colossyan.com)
+
+- **Dream Face**:
+    - DreamFace是一个有趣的照片动画应用程序,让照片说话和跳舞
+    - **链接**: [https://dreamfaceapp.com](https://dreamfaceapp.com)
+
+- **Pictory**:
+    - Pictory利用最新的A.I技术自动从您的脚本创建视频
+    - **链接**: [https://pictory.ai](https://pictory.ai)
+
+- **Fliki**:
+    - 通过AI语音将文本转换为视频！
+    - **链接**: [https://app.fliki.ai](https://app.fliki.ai)
+
+- **Artflow**:
+    - 人工智能视频协同创作;通过自定义角色、轻松的过场动画和使用AI生成的视频的对话场景
+    - **链接**: [https://app.artflow.ai](https://app.artflow.ai)
+
+- **D-ID**:
+    - 数字人文本到视频  只需按一下按钮即可创建会说话的虚拟形象并与之互动，从而提高参与度并降低成本。
+    - **链接**: [https://www.d-id.com](https://www.d-id.com)
+
+- **HeyGen**:
+    - HeyGen是一个视频平台，可以帮助您使用生成式AI创建引人入胜的商业视频，
+    - **链接**: [https://www.heygen.com](https://www.heygen.com)
+
+- **Synthesia**:
+    - 将文本转换为120多种语言的语音；从超过125种不同的AI化身中选择 ； 无需设备或视频编辑技能
+    - **链接**: [https://www.synthesia.io](https://www.synthesia.io)
+
+- **Steve.AI**:
+    - 通过我们的专利AI技术，您可以在几分钟内制作专业视频
+    - **链接**: [https://www.steve.ai](https://www.steve.ai)
+
+- **万兴播爆**:
+    - 输入文案，一键生成“真人”营销视频
+    - **链接**: [https://virbo.wondershare.cn](https://virbo.wondershare.cn)
+
+- **Elai**:
+    - 在几分钟内与演示者一起构建定制的AI视频，而无需使用相机，工作室和绿色屏。
+    - **链接**: [https://elai.io](https://elai.io)
+
+- **一帧秒创**:
+    - AI视频创作，快速图文转视频，效率百倍提升
+    - **链接**: [https://aigc.yizhentv.com](https://aigc.yizhentv.com)
+
+- **Genmo**:
+    - Genmo 是一个用于创建和共享交互式沉浸式生成艺术的平台。通过创建视频、动画等，超越 Genmo 上的 2D 图像
+    - **链接**: [https://www.genmo.ai](https://www.genmo.ai)
+
 
 ### AI聊天
 - **ChatGPT**: 适用于各种应用的对话式AI
