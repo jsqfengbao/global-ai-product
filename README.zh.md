@@ -823,6 +823,132 @@
 - **PromeAI**:
     - PromeAI 拥有强大的 AI 驱动设计助手和丰富的可控 AIGC (C-AIGC) 模型样式库，使您能够轻松创建令人惊叹的图形、视频和动画
     - **链接**: [https://www.promeai.com](https://www.promeai.com)
+#### 设计辅助
+
+- **Makelogo.ai**:
+    - 解锁人工智能，为您的企业创建独特的标志性徽标.创建令人惊叹的徽标从未如此简单。按照这些简单的步骤为您的项目设计完美的徽标。
+    - **链接**: [https://makelogo.ai](https://makelogo.ai)
+
+- **LogoAi**:
+    - 让人工智能徽标生成器生成您的新徽标并创建您喜欢的品牌标识设计！
+    - **链接**: [https://www.logoai.com](https://www.logoai.com)
+
+- **Photoscore**:
+    - 使用Photor AI获得完美的个人资料图片。 Photoscore提供了一种简单快捷的方法来为您的专业或个人资料找到完美的图片。 上传多张照片，让我们的人工智能技术找到合适的照片，让您看起来最好。改善您用 Photor AI 展示自己的方式！ Photoscore是一种用于分析和选择用户生成照片的工具。它基于347，000张Instagram照片的数据集进行训练，并由一组专业摄影师准备。
+    - **链接**: [https://photor.io/photoscore](https://photor.io/photoscore)
+
+- **Everypixel**:
+    - Everypixel 是一个人工智能驱动的平台，提供库存照片库，并允许用户根据视觉相似性搜索图像。由 AI 提供支持的库存图像搜索引擎。
+    - **链接**: [https://www.everypixel.com](https://www.everypixel.com)
+
+- **Kailua Image Search**:
+    - 在应用中构建强大的多模式搜索;使用我们的 API 通过 AI 轻松搜索您的图像、视频、音频等
+    - **链接**: [https://app.kailualabs.com](https://app.kailualabs.com)
+
+- **PLUG AI**:
+    - 包装设计好感度评价AI服务系统;人工智能现在甚至可以生成消费者喜欢的设计;使用超过1000万的训练数据创建的，并与东京大学和山崎实验室共同研究，因此可以使用客观指标获得结果。 每张图片15，000日元（*也有固定费率计划），只需10秒即可显示结果。 它大大减少了过去的时间和成本，可以看到设计的好感度排名，以及按性别和年龄的评价。
+    - **链接**: [https://hp.package-ai.jp](https://hp.package-ai.jp)
+
+- **Noya**:
+    - Noya 让设计变得像线框图一样简单，让您专注于最重要的事情。它将在线框图中迭代的自由与设计系统的强大功能相结合。
+    - **链接**: [https://www.noya.io](https://www.noya.io)
+
+- **VisualHound**:
+    - 使用 AI 为您的时装设计创意制作原型
+    - **链接**: [https://www.ainavi.top/sites/1272.html](https://www.ainavi.top/sites/1272.html)
+
+- **即时 AI**:
+    - AI 生成式设计工具;通过自然语言描述快速生成可二次编辑的 UI 设计稿，以 AI-First 视角来构建下一代设计工具的开端
+    - **链接**: [https://js.design](https://js.design)
+
+- **标小智**:
+    - 超过500万用户的AI智能logo设计神器
+    - **链接**: [https://www.logosc.cn](https://www.logosc.cn)
+
+- **AIDesign**:
+    - 腾讯旗下免费的LOGO设计AI工具;10秒创建您的LOGO！
+    - **链接**: [https://ailogo.qq.com/guide/brandname](https://ailogo.qq.com/guide/brandname)
+
+- **Color Wheel**:
+    - 可自动为徽标、插图、线框和其他图形艺术着色
+    - **链接**: [https://brandmark.io/color-wheel](https://brandmark.io/color-wheel)
+
+- **Eva Design**:
+    - 深度学习颜色生成器
+    - **链接**: [https://colors.eva.design](https://colors.eva.design)
+
+- **Huemint**:
+    - Huemint使用机器学习为您的品牌创建独特的配色方案， 网站或图形
+    - **链接**: [https://huemint.com](https://huemint.com)
+
+- **ColorMagic**:
+    - ColorMagic是一个带有AI的调色板生成器。生成颜色从关键字为图像的颜色您输入
+    - **链接**: [https://colormagic.app](https://colormagic.app)
+
+- **Khroma**:
+    - Khroma使用AI来学习您喜欢的颜色，并创建无限的调色板供您发现，搜索和保存
+    - **链接**: [https://www.khroma.co](https://www.khroma.co)
+
+- **AI Colors**:
+    - 从文本提示生成调色板,用AI生成配色方案。
+    - **链接**: [https://aicolors.co](https://aicolors.co)
+
+- **CandyIcons**:
+    - 创建您的自己的AI应用图标
+    - **链接**: [https://www.candyicons.com/create-app-icons](https://www.candyicons.com/create-app-icons)
+
+- **IconifyAI**:
+    - 让AI在几秒钟内为您的应用设计完美的图标。没有更昂贵耗时的传统应用程序图标设计。
+    - **链接**: [https://www.iconifyai.com](https://www.iconifyai.com)
+
+- **Uizard**:
+    - 将屏幕截图转换为可编辑的设计;上传应用程序或网站的屏幕截图，并在几秒钟内将其转换为可编辑的模型
+    - **链接**: [https://uizard.io](https://uizard.io)
+
+- **Appicons AI**:
+    - 创建您自己的，原始的和专业的外观图标，没有任何麻烦
+    - **链接**: [https://appicons.ai](https://appicons.ai)
+
+- **Poly**:
+    - Poly 在免费的在线编辑器中使用AI生成3D材料
+    - **链接**: [https://withpoly.com/browse/textures](https://withpoly.com/browse/textures)
+
+- **Magic Design**:
+    - Magic Design（Beta）是一款免费的AI设计工具，可让您通过专为您定制的精选精致模板来可视化您的设计理念。从上传您自己的媒体或从空白演示文稿开始，然后观看自定义设计在您需要的上下文中出现。
+    - **链接**: [https://www.canva.com/magic-design](https://www.canva.com/magic-design)
+
+- **Spline AI**:
+    - 在AI的帮助下更快地构建。通过简单的提示，通过描述您想要创建的内容来生成3d对象和场景。
+    - **链接**: [https://spline.design/ai](https://spline.design/ai)
+
+- **Galileo AI**:
+    - Galileo AI从简单的文本描述创建令人愉快的可编辑UI设计。它使您能够比以往更快地进行设计
+    - **链接**: [https://www.usegalileo.ai](https://www.usegalileo.ai)
+
+- **Illustroke**:
+    - 借助先进的生成式AI设计工具，在数秒内创建网站插图、徽标和图标。
+    - **链接**: [https://illustroke.com](https://illustroke.com)
+
+- **Microsoft Designer**:
+    - 微软旗下的在线创作工具，描述您想要创建的设计
+    - **链接**: [https://designer.microsoft.com](https://designer.microsoft.com)
+
+- **Looka**:
+    - 使用Looka的人工智能平台设计徽标并打造您喜爱的品牌。
+    - **链接**: [https://looka.com](https://looka.com)
+
+- **Luma AI**:
+    - 捕获3D NeRF和模型，可以拍摄少量照片来生成，着色和渲染产品的照片级逼真的3D模型
+    - **链接**: [https://lumalabs.ai](https://lumalabs.ai)
+
+- **Palette**:
+    - 一种给照片上色的工具
+    - **链接**: [https://palette.fm](https://palette.fm)
+
+- **Petalica Paint**:
+    - 人工智能驱动自动着色
+    - **链接**: [https://petalica.com](https://petalica.com)
+
 
 ### AI视频
 - **Synthesia**: 使用数字形象创建AI驱动的视频
