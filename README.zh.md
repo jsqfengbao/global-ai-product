@@ -1156,6 +1156,104 @@
 - **Genmo**:
     - Genmo 是一个用于创建和共享交互式沉浸式生成艺术的平台。通过创建视频、动画等，超越 Genmo 上的 2D 图像
     - **链接**: [https://www.genmo.ai](https://www.genmo.ai)
+#### 视频剪辑
+
+- **Movavi Video Suite**:
+    - 功能强大的视频编辑软件包，包括视频编辑器，文件转换器，屏幕录像机和其他好东西，可将您变成真正的内容大师
+    - **链接**: [https://www.movavi.com](https://www.movavi.com)
+
+- **Vidio**:
+    - 下一代视频编辑平台；在 AI 的支持下，轻松释放您的创造力。使用我们的在线视频编辑平台，在几秒钟内将您的视频转换为杰作。
+    - **链接**: [https://www.vidio.ai](https://www.vidio.ai)
+
+- **Subtitlevideo Online video enhancer**:
+    - AI视频增强器， 在线免费AI视频增强器， 视频升频器， 在线视频增强器， 在线增强视频， 视频放大， 提高视频分辨率， AI视频升级， 在线视频升级， 在线视频升级， 在线视频质量， 如何提高视频质量， 在线视频升频器， 在线视频升频器， 将视频升级到4k， 高档视频ai， 在线免费视频升频器， 在线高档视频， 最佳AI高档视频软件
+    - **链接**: [https://www.subtitlevideo.com/video-enhance-ai.php](https://www.subtitlevideo.com/video-enhance-ai.php)
+
+- **GDFPLAY**:
+    - GDFPLAY 实时AI视频增强 移动解决方案;在手机上观看直播或电影，在平板电脑上观看在线讲座或在移动的车辆，飞机或轮船上观看时，您可以使用GDFPLAY欣赏高分辨率视频
+    - **链接**: [https://gdflab.com](https://gdflab.com)
+
+- **Video2x**:
+    - 使用waifu2x，Anime4K，SRMD和RealSR实现的无损视频/ GIF /图像升频器。始于2018年的Hack the Valley II。
+    - **链接**: [https://video2x.org](https://video2x.org)
+
+- **Aiseesoft Video Enhancer**:
+    - Aiseesoft 视频增强器 是第一个也是最好的 AI 视频增强软件。它拥有最新的人工智能技术，使您能够提高视频质量、提高视频分辨率、消除视频噪音。它也是一款出色的视频编辑器，可以旋转或翻转视频、调整视频效果、制作视频剪辑、裁剪视频区域并为视频添加水印。
+    - **链接**: [https://www.aiseesoft.com/video-enhancer](https://www.aiseesoft.com/video-enhancer)
+
+- **Filmora**:
+    - Filmora使视频编辑更容易和专业;您可以使用Windows视频编辑器Filmora轻松制作令人印象深刻且引人入胜的视频。借助 Filmora 的内置编辑功能，创建视频只需要几个简单的步骤。享受Filmora视频编辑器的强大功能，免费下载。以智能方式制作专业视频
+    - **链接**: [https://filmora.wondershare.net](https://filmora.wondershare.net)
+
+- **Pixop**:
+    - 在云中进行 AI 驱动的视频重新制作和升级;当今的观众需要最高的视频质量，因此重新制作是档案货币化的关键一步。Pixop的自动化AI和ML过滤器可以轻松重新制作从标清到UHD 8K的数字母版。
+    - **链接**: [https://www.pixop.com](https://www.pixop.com)
+
+- **Tensorpix**:
+    - Tensorpix 在线视频增强器。 使用来自网络浏览器的 AI 改进和升级视频。 在不到 3 分钟的时间内提高视频质量。 . 无需安装。
+    - **链接**: [https://tensorpix.ai](https://tensorpix.ai)
+
+- **Flixier**:
+    - 使用最快的视频编辑器创建和发布 只需点击几下即可制作精彩的视频，实时协作并使用最快的在线视频编辑器在 3 分钟内发布。
+    - **链接**: [https://flixier.com](https://flixier.com)
+
+- **DVDFab Video Enhancer AI**:
+    - 通过通过神经网络训练的AI模型，并结合超分辨率技术，DVDFab视频增强器AI可以提高图像的饱和度和亮度，并减少模糊和噪点，使您的旧视频再次栩栩如生。
+    - **链接**: [https://www.dvdfab.cn/ai-suite.htm](https://www.dvdfab.cn/ai-suite.htm)
+
+- **Plask**:
+    - Plask人工智能驱动的动作捕捉动画工具;在浏览器上捕获、编辑、播放和共享动画。只需几分钟。
+    - **链接**: [https://plask.ai](https://plask.ai)
+
+- **Topaz Video AI**:
+    - Topaz Video AI,以流畅的 60 FPS 获得清晰的 4K 图像。无限制地访问世界领先的生产级神经网络，用于视频放大、去隔行、运动插值和抖动稳定 - 所有这些都针对您的本地工作站进行了优化。
+    - **链接**: [https://www.topazlabs.com/topaz-video-ai](https://www.topazlabs.com/topaz-video-ai)
+
+- **Vidyo**:
+    - vidyo 获取适合社交的剪辑，并由 AI 进行剪辑和字幕。节省 90% 的时间和精力；利用 AI 轻松处理场景变化和扬声器变化，不再是多镜头噩梦。  使用 AI 从您的长视频创建适合社交的短片。节省90%的时间、精力和成本！
+    - **链接**: [https://vidyo.ai](https://vidyo.ai)
+
+- **InVideo**:
+    - InVideo 使用现成的模板简化了视频创建，即使您以前从未这样做过，您也可以快速自定义这些模板。使用基本文本提示使用 AI 生成脚本，或使用 InVideo 的 AI 支持的文本到视频编辑器在几分钟内将您的文章或博客转换为视频。
+    - **链接**: [https://invideo.io](https://invideo.io)
+
+- **Perfectly Clear**:
+    - 利用 Perfectly Clear 的 AI 自动视频增强功能为您的视频提供支持;Perfectly Clear Video 是一种自动 AI 视频增强解决方案，可以在您需要的任何地方实施。这项突破性的技术可以实时使用或用于预先录制的视频。
+    - **链接**: [https://eyeq.photos/automatic-ai-video-enhancement](https://eyeq.photos/automatic-ai-video-enhancement)
+
+- **Visio studio**:
+    - 先进的背景去除工具，由计算机视觉技术提供支持。Visio 使用人工智能，使计算机能够准确地解释和理解图像，从而识别和分类对象。 Visio studio 向用户提供实时反馈，指导他们捕捉完美的镜头。Visio 利用机器学习，以设计软件的精度自动去除照片中的背景，确保清晰呈现所需的对象并放大其特征
+    - **链接**: [https://visio.studio](https://visio.studio)
+
+- **Tavus**:
+    - Tavus 是唯一一个视频个性化平台，能够将您录制的内容自动转换为无数 AI 生成的视频，为每个客户定制独特的语音变量，以激发忠诚度并在您点击发送后很长时间内重复转换。
+    - **链接**: [https://www.tavus.io](https://www.tavus.io)
+
+- **Cascadeur**:
+    - 人工智能辅助关键帧动画软件  您制作关键帧动画 – Cascadeur 帮助您进行姿势、物理和二次运动
+    - **链接**: [https://cascadeur.com](https://cascadeur.com)
+
+- **Wonder Studio**:
+    - 一种 AI 工具，可自动将 CG 角色制作动画、打光并将其合成到真人场景中
+    - **链接**: [https://wonderdynamics.com](https://wonderdynamics.com)
+
+- **Unscreen**:
+    - 使用Unscreen，您可以在任何地方录制视频，然后只需摆脱背景即可
+    - **链接**: [https://www.unscreen.com](https://www.unscreen.com)
+
+- **VEED视频背景卸妆**:
+    - VEED 的在线视频背景去除器可让您轻松编辑绿屏并将其替换为您选择的图像。
+    - **链接**: [https://www.veed.io/zh-CN/tools/video-background-remover](https://www.veed.io/zh-CN/tools/video-background-remover)
+
+- **Colourlab AI**:
+    - 好莱坞内容创作者依赖的人工智能色彩分级软件
+    - **链接**: [https://colourlab.ai](https://colourlab.ai)
+
+- **腾讯智影**:
+    - 腾讯智影是一个集素材搜集、视频剪辑、后期包装、渲染导出和发布于一体的在线剪辑平台
+    - **链接**: [https://zenvideo.qq.com](https://zenvideo.qq.com)
+
 
 
 ### AI聊天
